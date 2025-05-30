@@ -7,7 +7,7 @@
 
 This repository contains code to implement different analyses, as it appears in the manuscript:
 
-Soumyakanti Pan, and Sudipto Banerjee. 2025. _inference for spatially-temporally misaligned data using preditive stacking._
+Soumyakanti Pan, and Sudipto Banerjee. 2025. _Bayesian inference for spatially-temporally misaligned data using preditive stacking._
 
 Implemented models include Bayesian spatial-temporal regression models under the change of support, and the modifiable areal unit problem.
 The article also analyzes the effect of ozone on annual age-adjusted asthma-related emergency department visit rates among residents of California during the study period 2015-22. 
