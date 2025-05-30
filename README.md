@@ -10,8 +10,9 @@ This repository contains code to implement different analyses, as it appears in 
 Soumyakanti Pan, and Sudipto Banerjee. 2025. _Bayesian inference for spatially-temporally misaligned data using preditive stacking._
 
 Implemented models include Bayesian spatial-temporal regression models under the change of support, and the modifiable areal unit problem.
-The article also analyzes the effect of ozone on annual age-adjusted asthma-related emergency department visit rates among residents of California during the study period 2015-22. 
-A key challenge is that the outcome and the exposure data are misaligned both spatially and temporally.
+The article also analyzes the effect of ozone on annual age-adjusted asthma-related emergency department (ED) visit rates among residents of California during the study period 2015-22. 
+A key challenge is that the outcome and the exposure data are misaligned both spatially and temporally, with the asthma-related ED visit rates recorded annually and at the county-level, while
+the ozone concentrations are measured hourly by 200 monitoring stations scattered across different locations inside California.
 
 ## Authors
 
