@@ -1,0 +1,83 @@
+---
+title: 'Bayesian inference for spatially-temporally misaligned data using predicive stacking'
+subtitle: 'Supplementary code'
+author: "Soumyakanti Pan, e-mail: span18@ucla.edu"
+date: \today
+output: 
+  bookdown::html_document2:
+    mathjax: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    # self_contained: true
+    theme: spacelab
+    highlight: pygments
+    toc: false
+    number_sections: true
+    df_print: kable
+    code_folding: show
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(comment = NA, opts.label="kill_prefix", message = FALSE,
+                      fig.align = 'center')
+```
+
+The following execution assumes installation of the R package **spStackCOS**, available for download and installation from the GitHub repository [SPan-18/spStackCOS-dev](https://github.com/SPan-18/spStackCOS-dev). If required, run the `run/installer.R` file to install all packages.
+
+## Simulation
+### Simulation of monthly aggregated ozone data
+
+The following script simulates a monthly averaged exposure data at 50 locations in the unit square. The simulated data is plotted below.
+
+```{r simData}
+source("run/simData.R")
+```
+
+```{r plot1, echo=FALSE, fig.height=3.5, fig.width=12}
+ggarrange(p1, p2.1, ncol = 2,
+          labels = c("A", "B"), font.label = list(family = "sans"))
+```
+
+A: Simulated daily data is in *light blue*, and the monthly aggregated data is in *dark blue*; B: Interpolated spatial surface at a snapshot of the daily data.
+
+### Fit a spatial-temporal regression model
+
+We first load the `spStackCOS` package. Subsequently, we fit a spatial-temporal model on the simulated monthly average data, using monthly indicator basis function.
+
+```{r fit1}
+library(spStackCOS)
+source("run/fit1_sptLMTimeAgg.R")
+```
+
+Posterior summary of coefficients of monthly indicators. Reference group: *January*.
+
+```{r beta.CI}
+library(kableExtra)
+knitr::kable(t(apply(post_beta, 1, function(x) quantile(x, c(0.025, 0.5, 0.975))))) %>%
+  kable_styling(full_width = FALSE)
+```
+
+## Posterior predictive inference
+
+We seek both downscale and upscale posterior predictive inference at at arbitrary point locations in space and time, and at polygons and intervals.
+
+#### Downscale prediction using monthly indicator basis
+
+We perform downscale posterior predictive inference at a finer resolution - same set of locations, with each location predicted at 100 timestamps in the interval (0, 12).
+
+```{r pred1}
+source("run/pred1_sptPoint.R")
+```
+
+#### Downscale prediction using a periodic Fourier basis
+
+For comparison, we fit a model with a mean function characterized by periodic Fourier bases, with periods 5, 6, 7, and 8. Subsequently, we do the same posterior predictive inference at the spatial-temporal locations as before.
+
+```{r fit2}
+source("run/fit2_sptLMTimeAgg.R")
+source("run/pred2_sptPoint.R")
+```
+
+```{r plot2, echo=FALSE, fig.height=3.5, fig.width=12}
+ggpubr::ggarrange(p3, p4, ncol = 2,
+          labels = c("A", "B"), font.label = list(family = "sans"))
+```
+

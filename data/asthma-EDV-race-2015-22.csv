@@ -1,0 +1,2321 @@
+"County","Year","Race","EDvisits"
+"alameda",2015,"White",32
+"alpine",2015,"White",0
+"amador",2015,"White",63.8
+"butte",2015,"White",53.3
+"calaveras",2015,"White",50.1
+"colusa",2015,"White",55.1
+"contra costa",2015,"White",40.4
+"del norte",2015,"White",72.9
+"el dorado",2015,"White",25.8
+"fresno",2015,"White",72.7
+"glenn",2015,"White",53.9
+"humboldt",2015,"White",65.5
+"imperial",2015,"White",73.8
+"inyo",2015,"White",50.8
+"kern",2015,"White",56.9
+"kings",2015,"White",87.6
+"lake",2015,"White",83.6
+"lassen",2015,"White",57.3
+"los angeles",2015,"White",35.4
+"madera",2015,"White",46.6
+"marin",2015,"White",19.5
+"mariposa",2015,"White",51.7
+"mendocino",2015,"White",70.2
+"merced",2015,"White",85.7
+"modoc",2015,"White",72.8
+"mono",2015,"White",36
+"monterey",2015,"White",44.7
+"napa",2015,"White",46
+"nevada",2015,"White",50.9
+"orange",2015,"White",33.8
+"placer",2015,"White",33.8
+"plumas",2015,"White",48.7
+"riverside",2015,"White",40.7
+"sacramento",2015,"White",49.7
+"san benito",2015,"White",61.5
+"san bernardino",2015,"White",54.9
+"san diego",2015,"White",26.2
+"san francisco",2015,"White",26.4
+"san joaquin",2015,"White",58
+"san luis obispo",2015,"White",39.3
+"san mateo",2015,"White",28.5
+"santa barbara",2015,"White",36.8
+"santa clara",2015,"White",30.1
+"santa cruz",2015,"White",30.7
+"shasta",2015,"White",65.7
+"sierra",2015,"White",NA
+"siskiyou",2015,"White",50.5
+"solano",2015,"White",69.1
+"sonoma",2015,"White",39.7
+"stanislaus",2015,"White",59.1
+"sutter",2015,"White",37.8
+"tehama",2015,"White",58.1
+"trinity",2015,"White",74.7
+"tulare",2015,"White",34.5
+"tuolumne",2015,"White",59.9
+"ventura",2015,"White",33.1
+"yolo",2015,"White",41
+"yuba",2015,"White",53
+"alameda",2015,"Black",218.5
+"alpine",2015,"Black",0
+"amador",2015,"Black",NA
+"butte",2015,"Black",286.6
+"calaveras",2015,"Black",NA
+"colusa",2015,"Black",NA
+"contra costa",2015,"Black",232.7
+"del norte",2015,"Black",NA
+"el dorado",2015,"Black",176.3
+"fresno",2015,"Black",153
+"glenn",2015,"Black",NA
+"humboldt",2015,"Black",379.6
+"imperial",2015,"Black",119.3
+"inyo",2015,"Black",0
+"kern",2015,"Black",201.5
+"kings",2015,"Black",177.7
+"lake",2015,"Black",221.7
+"lassen",2015,"Black",NA
+"los angeles",2015,"Black",175.8
+"madera",2015,"Black",194.6
+"marin",2015,"Black",87.8
+"mariposa",2015,"Black",NA
+"mendocino",2015,"Black",180.4
+"merced",2015,"Black",361.6
+"modoc",2015,"Black",0
+"mono",2015,"Black",0
+"monterey",2015,"Black",161.4
+"napa",2015,"Black",135.9
+"nevada",2015,"Black",NA
+"orange",2015,"Black",126
+"placer",2015,"Black",112.5
+"plumas",2015,"Black",NA
+"riverside",2015,"Black",139.5
+"sacramento",2015,"Black",229.9
+"san benito",2015,"Black",NA
+"san bernardino",2015,"Black",154.9
+"san diego",2015,"Black",129.8
+"san francisco",2015,"Black",227.5
+"san joaquin",2015,"Black",215.7
+"san luis obispo",2015,"Black",132.3
+"san mateo",2015,"Black",67.7
+"santa barbara",2015,"Black",151.5
+"santa clara",2015,"Black",117.5
+"santa cruz",2015,"Black",87.4
+"shasta",2015,"Black",148.8
+"sierra",2015,"Black",0
+"siskiyou",2015,"Black",NA
+"solano",2015,"Black",232.8
+"sonoma",2015,"Black",121.5
+"stanislaus",2015,"Black",280.5
+"sutter",2015,"Black",131.3
+"tehama",2015,"Black",NA
+"trinity",2015,"Black",0
+"tulare",2015,"Black",129.5
+"tuolumne",2015,"Black",NA
+"ventura",2015,"Black",141.2
+"yolo",2015,"Black",108
+"yuba",2015,"Black",135
+"alameda",2015,"Hispanic",57.7
+"alpine",2015,"Hispanic",0
+"amador",2015,"Hispanic",53.8
+"butte",2015,"Hispanic",33.5
+"calaveras",2015,"Hispanic",37.7
+"colusa",2015,"Hispanic",34.9
+"contra costa",2015,"Hispanic",68.2
+"del norte",2015,"Hispanic",26.1
+"el dorado",2015,"Hispanic",41.7
+"fresno",2015,"Hispanic",83.8
+"glenn",2015,"Hispanic",33.9
+"humboldt",2015,"Hispanic",25.7
+"imperial",2015,"Hispanic",70.4
+"inyo",2015,"Hispanic",47.7
+"kern",2015,"Hispanic",53.4
+"kings",2015,"Hispanic",70.7
+"lake",2015,"Hispanic",70
+"lassen",2015,"Hispanic",NA
+"los angeles",2015,"Hispanic",50
+"madera",2015,"Hispanic",68.8
+"marin",2015,"Hispanic",27.2
+"mariposa",2015,"Hispanic",NA
+"mendocino",2015,"Hispanic",33.3
+"merced",2015,"Hispanic",82.2
+"modoc",2015,"Hispanic",NA
+"mono",2015,"Hispanic",32
+"monterey",2015,"Hispanic",51
+"napa",2015,"Hispanic",32.4
+"nevada",2015,"Hispanic",15.1
+"orange",2015,"Hispanic",36.5
+"placer",2015,"Hispanic",23.5
+"plumas",2015,"Hispanic",134.6
+"riverside",2015,"Hispanic",36.6
+"sacramento",2015,"Hispanic",59.2
+"san benito",2015,"Hispanic",49.6
+"san bernardino",2015,"Hispanic",45.3
+"san diego",2015,"Hispanic",37.7
+"san francisco",2015,"Hispanic",48.5
+"san joaquin",2015,"Hispanic",56.9
+"san luis obispo",2015,"Hispanic",35.3
+"san mateo",2015,"Hispanic",58.3
+"santa barbara",2015,"Hispanic",42.6
+"santa clara",2015,"Hispanic",54.5
+"santa cruz",2015,"Hispanic",45.6
+"shasta",2015,"Hispanic",33.5
+"sierra",2015,"Hispanic",NA
+"siskiyou",2015,"Hispanic",22.7
+"solano",2015,"Hispanic",59.3
+"sonoma",2015,"Hispanic",37
+"stanislaus",2015,"Hispanic",53.1
+"sutter",2015,"Hispanic",27.9
+"tehama",2015,"Hispanic",50.4
+"trinity",2015,"Hispanic",NA
+"tulare",2015,"Hispanic",38.1
+"tuolumne",2015,"Hispanic",22.5
+"ventura",2015,"Hispanic",37.4
+"yolo",2015,"Hispanic",48.7
+"yuba",2015,"Hispanic",29.2
+"alameda",2015,"Asian/PI",23
+"alpine",2015,"Asian/PI",0
+"amador",2015,"Asian/PI",0
+"butte",2015,"Asian/PI",21.1
+"calaveras",2015,"Asian/PI",NA
+"colusa",2015,"Asian/PI",0
+"contra costa",2015,"Asian/PI",26.3
+"del norte",2015,"Asian/PI",NA
+"el dorado",2015,"Asian/PI",18.4
+"fresno",2015,"Asian/PI",25.5
+"glenn",2015,"Asian/PI",NA
+"humboldt",2015,"Asian/PI",NA
+"imperial",2015,"Asian/PI",NA
+"inyo",2015,"Asian/PI",0
+"kern",2015,"Asian/PI",23.5
+"kings",2015,"Asian/PI",NA
+"lake",2015,"Asian/PI",NA
+"lassen",2015,"Asian/PI",0
+"los angeles",2015,"Asian/PI",18
+"madera",2015,"Asian/PI",NA
+"marin",2015,"Asian/PI",17.4
+"mariposa",2015,"Asian/PI",0
+"mendocino",2015,"Asian/PI",NA
+"merced",2015,"Asian/PI",20.3
+"modoc",2015,"Asian/PI",0
+"mono",2015,"Asian/PI",0
+"monterey",2015,"Asian/PI",31.9
+"napa",2015,"Asian/PI",34
+"nevada",2015,"Asian/PI",0
+"orange",2015,"Asian/PI",14.8
+"placer",2015,"Asian/PI",15.4
+"plumas",2015,"Asian/PI",0
+"riverside",2015,"Asian/PI",13.5
+"sacramento",2015,"Asian/PI",33.4
+"san benito",2015,"Asian/PI",NA
+"san bernardino",2015,"Asian/PI",17.4
+"san diego",2015,"Asian/PI",19.4
+"san francisco",2015,"Asian/PI",20.4
+"san joaquin",2015,"Asian/PI",32
+"san luis obispo",2015,"Asian/PI",NA
+"san mateo",2015,"Asian/PI",18.5
+"santa barbara",2015,"Asian/PI",23.5
+"santa clara",2015,"Asian/PI",16
+"santa cruz",2015,"Asian/PI",NA
+"shasta",2015,"Asian/PI",33.8
+"sierra",2015,"Asian/PI",0
+"siskiyou",2015,"Asian/PI",NA
+"solano",2015,"Asian/PI",33.3
+"sonoma",2015,"Asian/PI",16.9
+"stanislaus",2015,"Asian/PI",21
+"sutter",2015,"Asian/PI",20.7
+"tehama",2015,"Asian/PI",NA
+"trinity",2015,"Asian/PI",0
+"tulare",2015,"Asian/PI",14.1
+"tuolumne",2015,"Asian/PI",NA
+"ventura",2015,"Asian/PI",13.8
+"yolo",2015,"Asian/PI",33.8
+"yuba",2015,"Asian/PI",37.9
+"alameda",2015,"AI/AN",469.6
+"alpine",2015,"AI/AN",0
+"amador",2015,"AI/AN",0
+"butte",2015,"AI/AN",NA
+"calaveras",2015,"AI/AN",NA
+"colusa",2015,"AI/AN",NA
+"contra costa",2015,"AI/AN",50.9
+"del norte",2015,"AI/AN",NA
+"el dorado",2015,"AI/AN",NA
+"fresno",2015,"AI/AN",NA
+"glenn",2015,"AI/AN",NA
+"humboldt",2015,"AI/AN",70.4
+"imperial",2015,"AI/AN",0
+"inyo",2015,"AI/AN",71.6
+"kern",2015,"AI/AN",NA
+"kings",2015,"AI/AN",NA
+"lake",2015,"AI/AN",NA
+"lassen",2015,"AI/AN",NA
+"los angeles",2015,"AI/AN",26.1
+"madera",2015,"AI/AN",NA
+"marin",2015,"AI/AN",NA
+"mariposa",2015,"AI/AN",NA
+"mendocino",2015,"AI/AN",56.8
+"merced",2015,"AI/AN",NA
+"modoc",2015,"AI/AN",NA
+"mono",2015,"AI/AN",0
+"monterey",2015,"AI/AN",NA
+"napa",2015,"AI/AN",0
+"nevada",2015,"AI/AN",0
+"orange",2015,"AI/AN",23.7
+"placer",2015,"AI/AN",NA
+"plumas",2015,"AI/AN",NA
+"riverside",2015,"AI/AN",40.2
+"sacramento",2015,"AI/AN",55.3
+"san benito",2015,"AI/AN",0
+"san bernardino",2015,"AI/AN",82.7
+"san diego",2015,"AI/AN",17.5
+"san francisco",2015,"AI/AN",NA
+"san joaquin",2015,"AI/AN",60.9
+"san luis obispo",2015,"AI/AN",NA
+"san mateo",2015,"AI/AN",NA
+"santa barbara",2015,"AI/AN",NA
+"santa clara",2015,"AI/AN",NA
+"santa cruz",2015,"AI/AN",0
+"shasta",2015,"AI/AN",64.9
+"sierra",2015,"AI/AN",0
+"siskiyou",2015,"AI/AN",NA
+"solano",2015,"AI/AN",59.4
+"sonoma",2015,"AI/AN",49.9
+"stanislaus",2015,"AI/AN",NA
+"sutter",2015,"AI/AN",NA
+"tehama",2015,"AI/AN",0
+"trinity",2015,"AI/AN",NA
+"tulare",2015,"AI/AN",69.3
+"tuolumne",2015,"AI/AN",0
+"ventura",2015,"AI/AN",NA
+"yolo",2015,"AI/AN",NA
+"yuba",2015,"AI/AN",NA
+"alameda",2016,"White",28.8
+"alpine",2016,"White",NA
+"amador",2016,"White",62.7
+"butte",2016,"White",41.3
+"calaveras",2016,"White",50.5
+"colusa",2016,"White",42.4
+"contra costa",2016,"White",34
+"del norte",2016,"White",92.3
+"el dorado",2016,"White",30.1
+"fresno",2016,"White",66.2
+"glenn",2016,"White",33
+"humboldt",2016,"White",66.1
+"imperial",2016,"White",62.2
+"inyo",2016,"White",44.1
+"kern",2016,"White",49.8
+"kings",2016,"White",65.9
+"lake",2016,"White",82.5
+"lassen",2016,"White",50.8
+"los angeles",2016,"White",32.3
+"madera",2016,"White",52.5
+"marin",2016,"White",19.3
+"mariposa",2016,"White",45.7
+"mendocino",2016,"White",58.4
+"merced",2016,"White",84.4
+"modoc",2016,"White",81.9
+"mono",2016,"White",30.8
+"monterey",2016,"White",37.4
+"napa",2016,"White",35.6
+"nevada",2016,"White",37.3
+"orange",2016,"White",28.3
+"placer",2016,"White",28.9
+"plumas",2016,"White",53.3
+"riverside",2016,"White",39.8
+"sacramento",2016,"White",42.3
+"san benito",2016,"White",51
+"san bernardino",2016,"White",44.3
+"san diego",2016,"White",20.9
+"san francisco",2016,"White",23
+"san joaquin",2016,"White",46.4
+"san luis obispo",2016,"White",37.6
+"san mateo",2016,"White",24.5
+"santa barbara",2016,"White",33.4
+"santa clara",2016,"White",23.6
+"santa cruz",2016,"White",30.5
+"shasta",2016,"White",47.4
+"sierra",2016,"White",NA
+"siskiyou",2016,"White",37.7
+"solano",2016,"White",61
+"sonoma",2016,"White",34.9
+"stanislaus",2016,"White",49
+"sutter",2016,"White",37.3
+"tehama",2016,"White",61.2
+"trinity",2016,"White",61.8
+"tulare",2016,"White",26.7
+"tuolumne",2016,"White",52.4
+"ventura",2016,"White",32.6
+"yolo",2016,"White",31.7
+"yuba",2016,"White",44
+"alameda",2016,"Black",204
+"alpine",2016,"Black",0
+"amador",2016,"Black",NA
+"butte",2016,"Black",201.3
+"calaveras",2016,"Black",NA
+"colusa",2016,"Black",0
+"contra costa",2016,"Black",206.2
+"del norte",2016,"Black",NA
+"el dorado",2016,"Black",111.8
+"fresno",2016,"Black",146.4
+"glenn",2016,"Black",NA
+"humboldt",2016,"Black",456.3
+"imperial",2016,"Black",119.6
+"inyo",2016,"Black",NA
+"kern",2016,"Black",177.6
+"kings",2016,"Black",157.4
+"lake",2016,"Black",284.8
+"lassen",2016,"Black",NA
+"los angeles",2016,"Black",167
+"madera",2016,"Black",315.7
+"marin",2016,"Black",114.7
+"mariposa",2016,"Black",NA
+"mendocino",2016,"Black",NA
+"merced",2016,"Black",300
+"modoc",2016,"Black",0
+"mono",2016,"Black",0
+"monterey",2016,"Black",127.2
+"napa",2016,"Black",103.3
+"nevada",2016,"Black",NA
+"orange",2016,"Black",123.4
+"placer",2016,"Black",152
+"plumas",2016,"Black",560.9
+"riverside",2016,"Black",147.6
+"sacramento",2016,"Black",214.6
+"san benito",2016,"Black",NA
+"san bernardino",2016,"Black",141.2
+"san diego",2016,"Black",109.6
+"san francisco",2016,"Black",199.1
+"san joaquin",2016,"Black",226.9
+"san luis obispo",2016,"Black",89
+"san mateo",2016,"Black",90.3
+"santa barbara",2016,"Black",139.6
+"santa clara",2016,"Black",121.9
+"santa cruz",2016,"Black",61.7
+"shasta",2016,"Black",193.8
+"sierra",2016,"Black",0
+"siskiyou",2016,"Black",NA
+"solano",2016,"Black",228.1
+"sonoma",2016,"Black",157.8
+"stanislaus",2016,"Black",236
+"sutter",2016,"Black",172.9
+"tehama",2016,"Black",NA
+"trinity",2016,"Black",0
+"tulare",2016,"Black",165.8
+"tuolumne",2016,"Black",NA
+"ventura",2016,"Black",99.3
+"yolo",2016,"Black",139.7
+"yuba",2016,"Black",183.6
+"alameda",2016,"Hispanic",54.3
+"alpine",2016,"Hispanic",0
+"amador",2016,"Hispanic",65.2
+"butte",2016,"Hispanic",24.5
+"calaveras",2016,"Hispanic",NA
+"colusa",2016,"Hispanic",24.6
+"contra costa",2016,"Hispanic",57.7
+"del norte",2016,"Hispanic",37.9
+"el dorado",2016,"Hispanic",28.5
+"fresno",2016,"Hispanic",71.7
+"glenn",2016,"Hispanic",38.4
+"humboldt",2016,"Hispanic",29.3
+"imperial",2016,"Hispanic",66.9
+"inyo",2016,"Hispanic",55.9
+"kern",2016,"Hispanic",48.4
+"kings",2016,"Hispanic",60.9
+"lake",2016,"Hispanic",52.4
+"lassen",2016,"Hispanic",23.6
+"los angeles",2016,"Hispanic",48.8
+"madera",2016,"Hispanic",60.4
+"marin",2016,"Hispanic",26.9
+"mariposa",2016,"Hispanic",NA
+"mendocino",2016,"Hispanic",47.8
+"merced",2016,"Hispanic",73.2
+"modoc",2016,"Hispanic",NA
+"mono",2016,"Hispanic",NA
+"monterey",2016,"Hispanic",44.3
+"napa",2016,"Hispanic",30.8
+"nevada",2016,"Hispanic",22.1
+"orange",2016,"Hispanic",31.7
+"placer",2016,"Hispanic",23.5
+"plumas",2016,"Hispanic",NA
+"riverside",2016,"Hispanic",33.9
+"sacramento",2016,"Hispanic",52.8
+"san benito",2016,"Hispanic",50.6
+"san bernardino",2016,"Hispanic",43
+"san diego",2016,"Hispanic",32.1
+"san francisco",2016,"Hispanic",52
+"san joaquin",2016,"Hispanic",47.7
+"san luis obispo",2016,"Hispanic",37.5
+"san mateo",2016,"Hispanic",51.6
+"santa barbara",2016,"Hispanic",40.1
+"santa clara",2016,"Hispanic",44.6
+"santa cruz",2016,"Hispanic",38.1
+"shasta",2016,"Hispanic",29.3
+"sierra",2016,"Hispanic",NA
+"siskiyou",2016,"Hispanic",NA
+"solano",2016,"Hispanic",55.2
+"sonoma",2016,"Hispanic",35.2
+"stanislaus",2016,"Hispanic",45.4
+"sutter",2016,"Hispanic",29.7
+"tehama",2016,"Hispanic",42.6
+"trinity",2016,"Hispanic",NA
+"tulare",2016,"Hispanic",29.1
+"tuolumne",2016,"Hispanic",28.3
+"ventura",2016,"Hispanic",32.9
+"yolo",2016,"Hispanic",47.4
+"yuba",2016,"Hispanic",23.7
+"alameda",2016,"Asian/PI",27
+"alpine",2016,"Asian/PI",0
+"amador",2016,"Asian/PI",NA
+"butte",2016,"Asian/PI",NA
+"calaveras",2016,"Asian/PI",NA
+"colusa",2016,"Asian/PI",0
+"contra costa",2016,"Asian/PI",29.6
+"del norte",2016,"Asian/PI",NA
+"el dorado",2016,"Asian/PI",30.3
+"fresno",2016,"Asian/PI",23.2
+"glenn",2016,"Asian/PI",NA
+"humboldt",2016,"Asian/PI",46.5
+"imperial",2016,"Asian/PI",NA
+"inyo",2016,"Asian/PI",0
+"kern",2016,"Asian/PI",26.4
+"kings",2016,"Asian/PI",27.3
+"lake",2016,"Asian/PI",NA
+"lassen",2016,"Asian/PI",0
+"los angeles",2016,"Asian/PI",21
+"madera",2016,"Asian/PI",NA
+"marin",2016,"Asian/PI",15.5
+"mariposa",2016,"Asian/PI",0
+"mendocino",2016,"Asian/PI",NA
+"merced",2016,"Asian/PI",26.9
+"modoc",2016,"Asian/PI",0
+"mono",2016,"Asian/PI",NA
+"monterey",2016,"Asian/PI",37.2
+"napa",2016,"Asian/PI",22.2
+"nevada",2016,"Asian/PI",NA
+"orange",2016,"Asian/PI",14.2
+"placer",2016,"Asian/PI",21
+"plumas",2016,"Asian/PI",0
+"riverside",2016,"Asian/PI",16.6
+"sacramento",2016,"Asian/PI",34.6
+"san benito",2016,"Asian/PI",NA
+"san bernardino",2016,"Asian/PI",18.7
+"san diego",2016,"Asian/PI",19.7
+"san francisco",2016,"Asian/PI",21.9
+"san joaquin",2016,"Asian/PI",29.4
+"san luis obispo",2016,"Asian/PI",16.1
+"san mateo",2016,"Asian/PI",21.5
+"santa barbara",2016,"Asian/PI",20.2
+"santa clara",2016,"Asian/PI",14.3
+"santa cruz",2016,"Asian/PI",NA
+"shasta",2016,"Asian/PI",44.7
+"sierra",2016,"Asian/PI",0
+"siskiyou",2016,"Asian/PI",NA
+"solano",2016,"Asian/PI",52.2
+"sonoma",2016,"Asian/PI",34.4
+"stanislaus",2016,"Asian/PI",27.6
+"sutter",2016,"Asian/PI",19
+"tehama",2016,"Asian/PI",NA
+"trinity",2016,"Asian/PI",0
+"tulare",2016,"Asian/PI",18.6
+"tuolumne",2016,"Asian/PI",NA
+"ventura",2016,"Asian/PI",12.9
+"yolo",2016,"Asian/PI",19.7
+"yuba",2016,"Asian/PI",35.2
+"alameda",2016,"AI/AN",80.5
+"alpine",2016,"AI/AN",0
+"amador",2016,"AI/AN",NA
+"butte",2016,"AI/AN",NA
+"calaveras",2016,"AI/AN",NA
+"colusa",2016,"AI/AN",0
+"contra costa",2016,"AI/AN",56.3
+"del norte",2016,"AI/AN",NA
+"el dorado",2016,"AI/AN",NA
+"fresno",2016,"AI/AN",22.1
+"glenn",2016,"AI/AN",NA
+"humboldt",2016,"AI/AN",46.2
+"imperial",2016,"AI/AN",NA
+"inyo",2016,"AI/AN",108.3
+"kern",2016,"AI/AN",NA
+"kings",2016,"AI/AN",NA
+"lake",2016,"AI/AN",83.1
+"lassen",2016,"AI/AN",NA
+"los angeles",2016,"AI/AN",35.9
+"madera",2016,"AI/AN",0
+"marin",2016,"AI/AN",NA
+"mariposa",2016,"AI/AN",NA
+"mendocino",2016,"AI/AN",80.4
+"merced",2016,"AI/AN",NA
+"modoc",2016,"AI/AN",NA
+"mono",2016,"AI/AN",NA
+"monterey",2016,"AI/AN",NA
+"napa",2016,"AI/AN",0
+"nevada",2016,"AI/AN",NA
+"orange",2016,"AI/AN",NA
+"placer",2016,"AI/AN",NA
+"plumas",2016,"AI/AN",NA
+"riverside",2016,"AI/AN",36.5
+"sacramento",2016,"AI/AN",44.3
+"san benito",2016,"AI/AN",0
+"san bernardino",2016,"AI/AN",199.4
+"san diego",2016,"AI/AN",28.5
+"san francisco",2016,"AI/AN",263.9
+"san joaquin",2016,"AI/AN",NA
+"san luis obispo",2016,"AI/AN",0
+"san mateo",2016,"AI/AN",NA
+"santa barbara",2016,"AI/AN",NA
+"santa clara",2016,"AI/AN",NA
+"santa cruz",2016,"AI/AN",0
+"shasta",2016,"AI/AN",NA
+"sierra",2016,"AI/AN",0
+"siskiyou",2016,"AI/AN",NA
+"solano",2016,"AI/AN",95.6
+"sonoma",2016,"AI/AN",37.5
+"stanislaus",2016,"AI/AN",NA
+"sutter",2016,"AI/AN",0
+"tehama",2016,"AI/AN",NA
+"trinity",2016,"AI/AN",NA
+"tulare",2016,"AI/AN",NA
+"tuolumne",2016,"AI/AN",NA
+"ventura",2016,"AI/AN",NA
+"yolo",2016,"AI/AN",NA
+"yuba",2016,"AI/AN",NA
+"alameda",2017,"White",28.4
+"alpine",2017,"White",0
+"amador",2017,"White",52.9
+"butte",2017,"White",48
+"calaveras",2017,"White",61.2
+"colusa",2017,"White",22.8
+"contra costa",2017,"White",36.2
+"del norte",2017,"White",84.6
+"el dorado",2017,"White",37.8
+"fresno",2017,"White",73.6
+"glenn",2017,"White",49.2
+"humboldt",2017,"White",68.4
+"imperial",2017,"White",70.3
+"inyo",2017,"White",77.6
+"kern",2017,"White",44.5
+"kings",2017,"White",71.2
+"lake",2017,"White",78.9
+"lassen",2017,"White",55.6
+"los angeles",2017,"White",29.7
+"madera",2017,"White",51.6
+"marin",2017,"White",18.4
+"mariposa",2017,"White",46.4
+"mendocino",2017,"White",82.5
+"merced",2017,"White",75
+"modoc",2017,"White",73
+"mono",2017,"White",24.7
+"monterey",2017,"White",38.1
+"napa",2017,"White",45.7
+"nevada",2017,"White",41.6
+"orange",2017,"White",28.9
+"placer",2017,"White",34.9
+"plumas",2017,"White",63.3
+"riverside",2017,"White",41.1
+"sacramento",2017,"White",47.1
+"san benito",2017,"White",56.5
+"san bernardino",2017,"White",45.9
+"san diego",2017,"White",21.7
+"san francisco",2017,"White",24.8
+"san joaquin",2017,"White",54.9
+"san luis obispo",2017,"White",30.9
+"san mateo",2017,"White",23.3
+"santa barbara",2017,"White",31
+"santa clara",2017,"White",23.7
+"santa cruz",2017,"White",27.3
+"shasta",2017,"White",46.8
+"sierra",2017,"White",NA
+"siskiyou",2017,"White",43.7
+"solano",2017,"White",71.4
+"sonoma",2017,"White",39
+"stanislaus",2017,"White",58.1
+"sutter",2017,"White",29.6
+"tehama",2017,"White",57.7
+"trinity",2017,"White",48.9
+"tulare",2017,"White",31.3
+"tuolumne",2017,"White",62.7
+"ventura",2017,"White",35.9
+"yolo",2017,"White",40.5
+"yuba",2017,"White",51.5
+"alameda",2017,"Black",202.8
+"alpine",2017,"Black",0
+"amador",2017,"Black",NA
+"butte",2017,"Black",192.3
+"calaveras",2017,"Black",NA
+"colusa",2017,"Black",NA
+"contra costa",2017,"Black",216.3
+"del norte",2017,"Black",NA
+"el dorado",2017,"Black",206.5
+"fresno",2017,"Black",156.3
+"glenn",2017,"Black",NA
+"humboldt",2017,"Black",370.4
+"imperial",2017,"Black",145.4
+"inyo",2017,"Black",0
+"kern",2017,"Black",184.5
+"kings",2017,"Black",208.6
+"lake",2017,"Black",381.2
+"lassen",2017,"Black",NA
+"los angeles",2017,"Black",162.3
+"madera",2017,"Black",199
+"marin",2017,"Black",113.1
+"mariposa",2017,"Black",NA
+"mendocino",2017,"Black",328.6
+"merced",2017,"Black",252.9
+"modoc",2017,"Black",0
+"mono",2017,"Black",NA
+"monterey",2017,"Black",111.8
+"napa",2017,"Black",115.6
+"nevada",2017,"Black",NA
+"orange",2017,"Black",124.7
+"placer",2017,"Black",150.9
+"plumas",2017,"Black",NA
+"riverside",2017,"Black",141
+"sacramento",2017,"Black",221.4
+"san benito",2017,"Black",NA
+"san bernardino",2017,"Black",135.6
+"san diego",2017,"Black",113.7
+"san francisco",2017,"Black",257.8
+"san joaquin",2017,"Black",225
+"san luis obispo",2017,"Black",106.1
+"san mateo",2017,"Black",82.6
+"santa barbara",2017,"Black",118.1
+"santa clara",2017,"Black",112.8
+"santa cruz",2017,"Black",66.2
+"shasta",2017,"Black",192.8
+"sierra",2017,"Black",0
+"siskiyou",2017,"Black",NA
+"solano",2017,"Black",242.8
+"sonoma",2017,"Black",164.7
+"stanislaus",2017,"Black",216.1
+"sutter",2017,"Black",263
+"tehama",2017,"Black",NA
+"trinity",2017,"Black",NA
+"tulare",2017,"Black",109.4
+"tuolumne",2017,"Black",NA
+"ventura",2017,"Black",101.4
+"yolo",2017,"Black",180.3
+"yuba",2017,"Black",206.8
+"alameda",2017,"Hispanic",53
+"alpine",2017,"Hispanic",0
+"amador",2017,"Hispanic",58.7
+"butte",2017,"Hispanic",34.8
+"calaveras",2017,"Hispanic",NA
+"colusa",2017,"Hispanic",25.9
+"contra costa",2017,"Hispanic",66.9
+"del norte",2017,"Hispanic",29.6
+"el dorado",2017,"Hispanic",37.9
+"fresno",2017,"Hispanic",80.5
+"glenn",2017,"Hispanic",34.2
+"humboldt",2017,"Hispanic",47.3
+"imperial",2017,"Hispanic",66
+"inyo",2017,"Hispanic",57.7
+"kern",2017,"Hispanic",45.6
+"kings",2017,"Hispanic",60.9
+"lake",2017,"Hispanic",72.1
+"lassen",2017,"Hispanic",35.8
+"los angeles",2017,"Hispanic",48.5
+"madera",2017,"Hispanic",65.7
+"marin",2017,"Hispanic",31.2
+"mariposa",2017,"Hispanic",NA
+"mendocino",2017,"Hispanic",52.1
+"merced",2017,"Hispanic",72.5
+"modoc",2017,"Hispanic",NA
+"mono",2017,"Hispanic",34.8
+"monterey",2017,"Hispanic",43.5
+"napa",2017,"Hispanic",38.8
+"nevada",2017,"Hispanic",31.9
+"orange",2017,"Hispanic",32.4
+"placer",2017,"Hispanic",29.5
+"plumas",2017,"Hispanic",NA
+"riverside",2017,"Hispanic",36.5
+"sacramento",2017,"Hispanic",61.6
+"san benito",2017,"Hispanic",67.4
+"san bernardino",2017,"Hispanic",42
+"san diego",2017,"Hispanic",32.8
+"san francisco",2017,"Hispanic",56.1
+"san joaquin",2017,"Hispanic",52.5
+"san luis obispo",2017,"Hispanic",28.9
+"san mateo",2017,"Hispanic",47.3
+"santa barbara",2017,"Hispanic",32.8
+"santa clara",2017,"Hispanic",45.4
+"santa cruz",2017,"Hispanic",32.4
+"shasta",2017,"Hispanic",25.6
+"sierra",2017,"Hispanic",NA
+"siskiyou",2017,"Hispanic",21
+"solano",2017,"Hispanic",67.3
+"sonoma",2017,"Hispanic",42.2
+"stanislaus",2017,"Hispanic",51.1
+"sutter",2017,"Hispanic",27.6
+"tehama",2017,"Hispanic",58.6
+"trinity",2017,"Hispanic",NA
+"tulare",2017,"Hispanic",29.8
+"tuolumne",2017,"Hispanic",30.7
+"ventura",2017,"Hispanic",34.8
+"yolo",2017,"Hispanic",45.2
+"yuba",2017,"Hispanic",38.9
+"alameda",2017,"Asian/PI",25.2
+"alpine",2017,"Asian/PI",0
+"amador",2017,"Asian/PI",NA
+"butte",2017,"Asian/PI",25.4
+"calaveras",2017,"Asian/PI",NA
+"colusa",2017,"Asian/PI",0
+"contra costa",2017,"Asian/PI",34
+"del norte",2017,"Asian/PI",NA
+"el dorado",2017,"Asian/PI",34.1
+"fresno",2017,"Asian/PI",21.5
+"glenn",2017,"Asian/PI",NA
+"humboldt",2017,"Asian/PI",38.5
+"imperial",2017,"Asian/PI",NA
+"inyo",2017,"Asian/PI",0
+"kern",2017,"Asian/PI",28.3
+"kings",2017,"Asian/PI",NA
+"lake",2017,"Asian/PI",NA
+"lassen",2017,"Asian/PI",NA
+"los angeles",2017,"Asian/PI",18.6
+"madera",2017,"Asian/PI",NA
+"marin",2017,"Asian/PI",12.2
+"mariposa",2017,"Asian/PI",NA
+"mendocino",2017,"Asian/PI",NA
+"merced",2017,"Asian/PI",29.6
+"modoc",2017,"Asian/PI",NA
+"mono",2017,"Asian/PI",NA
+"monterey",2017,"Asian/PI",30.8
+"napa",2017,"Asian/PI",36
+"nevada",2017,"Asian/PI",NA
+"orange",2017,"Asian/PI",13.7
+"placer",2017,"Asian/PI",25.6
+"plumas",2017,"Asian/PI",0
+"riverside",2017,"Asian/PI",18
+"sacramento",2017,"Asian/PI",41.4
+"san benito",2017,"Asian/PI",NA
+"san bernardino",2017,"Asian/PI",17.3
+"san diego",2017,"Asian/PI",21.2
+"san francisco",2017,"Asian/PI",20.6
+"san joaquin",2017,"Asian/PI",38
+"san luis obispo",2017,"Asian/PI",NA
+"san mateo",2017,"Asian/PI",24.2
+"santa barbara",2017,"Asian/PI",16.5
+"santa clara",2017,"Asian/PI",14.7
+"santa cruz",2017,"Asian/PI",14.4
+"shasta",2017,"Asian/PI",52.5
+"sierra",2017,"Asian/PI",0
+"siskiyou",2017,"Asian/PI",NA
+"solano",2017,"Asian/PI",70.8
+"sonoma",2017,"Asian/PI",36.9
+"stanislaus",2017,"Asian/PI",21.3
+"sutter",2017,"Asian/PI",20.5
+"tehama",2017,"Asian/PI",NA
+"trinity",2017,"Asian/PI",NA
+"tulare",2017,"Asian/PI",17.2
+"tuolumne",2017,"Asian/PI",0
+"ventura",2017,"Asian/PI",12.3
+"yolo",2017,"Asian/PI",60.5
+"yuba",2017,"Asian/PI",33.8
+"alameda",2017,"AI/AN",75
+"alpine",2017,"AI/AN",0
+"amador",2017,"AI/AN",NA
+"butte",2017,"AI/AN",NA
+"calaveras",2017,"AI/AN",NA
+"colusa",2017,"AI/AN",0
+"contra costa",2017,"AI/AN",125.5
+"del norte",2017,"AI/AN",93.1
+"el dorado",2017,"AI/AN",NA
+"fresno",2017,"AI/AN",28.2
+"glenn",2017,"AI/AN",NA
+"humboldt",2017,"AI/AN",31.1
+"imperial",2017,"AI/AN",0
+"inyo",2017,"AI/AN",121.9
+"kern",2017,"AI/AN",NA
+"kings",2017,"AI/AN",NA
+"lake",2017,"AI/AN",86.4
+"lassen",2017,"AI/AN",NA
+"los angeles",2017,"AI/AN",29.8
+"madera",2017,"AI/AN",NA
+"marin",2017,"AI/AN",NA
+"mariposa",2017,"AI/AN",NA
+"mendocino",2017,"AI/AN",87.2
+"merced",2017,"AI/AN",NA
+"modoc",2017,"AI/AN",NA
+"mono",2017,"AI/AN",0
+"monterey",2017,"AI/AN",NA
+"napa",2017,"AI/AN",NA
+"nevada",2017,"AI/AN",NA
+"orange",2017,"AI/AN",25.3
+"placer",2017,"AI/AN",NA
+"plumas",2017,"AI/AN",NA
+"riverside",2017,"AI/AN",42.8
+"sacramento",2017,"AI/AN",50.5
+"san benito",2017,"AI/AN",NA
+"san bernardino",2017,"AI/AN",182.6
+"san diego",2017,"AI/AN",30.9
+"san francisco",2017,"AI/AN",211.5
+"san joaquin",2017,"AI/AN",45.5
+"san luis obispo",2017,"AI/AN",NA
+"san mateo",2017,"AI/AN",NA
+"santa barbara",2017,"AI/AN",NA
+"santa clara",2017,"AI/AN",NA
+"santa cruz",2017,"AI/AN",NA
+"shasta",2017,"AI/AN",46.7
+"sierra",2017,"AI/AN",0
+"siskiyou",2017,"AI/AN",NA
+"solano",2017,"AI/AN",NA
+"sonoma",2017,"AI/AN",60.1
+"stanislaus",2017,"AI/AN",NA
+"sutter",2017,"AI/AN",NA
+"tehama",2017,"AI/AN",NA
+"trinity",2017,"AI/AN",NA
+"tulare",2017,"AI/AN",NA
+"tuolumne",2017,"AI/AN",NA
+"ventura",2017,"AI/AN",NA
+"yolo",2017,"AI/AN",NA
+"yuba",2017,"AI/AN",NA
+"alameda",2018,"White",23.9
+"alpine",2018,"White",NA
+"amador",2018,"White",46.7
+"butte",2018,"White",43.4
+"calaveras",2018,"White",54.6
+"colusa",2018,"White",65.5
+"contra costa",2018,"White",31.7
+"del norte",2018,"White",70.8
+"el dorado",2018,"White",35
+"fresno",2018,"White",60.6
+"glenn",2018,"White",40
+"humboldt",2018,"White",49.4
+"imperial",2018,"White",62.9
+"inyo",2018,"White",57.6
+"kern",2018,"White",39.6
+"kings",2018,"White",60.6
+"lake",2018,"White",89.3
+"lassen",2018,"White",44.5
+"los angeles",2018,"White",27.7
+"madera",2018,"White",39.2
+"marin",2018,"White",19.7
+"mariposa",2018,"White",51.7
+"mendocino",2018,"White",67.9
+"merced",2018,"White",62.9
+"modoc",2018,"White",65.9
+"mono",2018,"White",21.4
+"monterey",2018,"White",30.7
+"napa",2018,"White",38.5
+"nevada",2018,"White",26.2
+"orange",2018,"White",26.5
+"placer",2018,"White",30.5
+"plumas",2018,"White",64.6
+"riverside",2018,"White",34.8
+"sacramento",2018,"White",43.4
+"san benito",2018,"White",48.6
+"san bernardino",2018,"White",44.5
+"san diego",2018,"White",20
+"san francisco",2018,"White",19.4
+"san joaquin",2018,"White",50.7
+"san luis obispo",2018,"White",26.4
+"san mateo",2018,"White",18.8
+"santa barbara",2018,"White",25.3
+"santa clara",2018,"White",18.8
+"santa cruz",2018,"White",26.6
+"shasta",2018,"White",37.5
+"sierra",2018,"White",60.9
+"siskiyou",2018,"White",39.8
+"solano",2018,"White",59.5
+"sonoma",2018,"White",34.2
+"stanislaus",2018,"White",53.4
+"sutter",2018,"White",34.6
+"tehama",2018,"White",49.3
+"trinity",2018,"White",73.2
+"tulare",2018,"White",25.4
+"tuolumne",2018,"White",50.9
+"ventura",2018,"White",28.3
+"yolo",2018,"White",38.1
+"yuba",2018,"White",45
+"alameda",2018,"Black",176.1
+"alpine",2018,"Black",0
+"amador",2018,"Black",NA
+"butte",2018,"Black",297.4
+"calaveras",2018,"Black",NA
+"colusa",2018,"Black",NA
+"contra costa",2018,"Black",197.7
+"del norte",2018,"Black",NA
+"el dorado",2018,"Black",196
+"fresno",2018,"Black",175.2
+"glenn",2018,"Black",NA
+"humboldt",2018,"Black",378.9
+"imperial",2018,"Black",79.7
+"inyo",2018,"Black",NA
+"kern",2018,"Black",178.1
+"kings",2018,"Black",136.6
+"lake",2018,"Black",404.9
+"lassen",2018,"Black",NA
+"los angeles",2018,"Black",156
+"madera",2018,"Black",212.6
+"marin",2018,"Black",90.1
+"mariposa",2018,"Black",0
+"mendocino",2018,"Black",483.3
+"merced",2018,"Black",165.9
+"modoc",2018,"Black",NA
+"mono",2018,"Black",0
+"monterey",2018,"Black",97.5
+"napa",2018,"Black",97.7
+"nevada",2018,"Black",NA
+"orange",2018,"Black",97.1
+"placer",2018,"Black",119.4
+"plumas",2018,"Black",NA
+"riverside",2018,"Black",122.1
+"sacramento",2018,"Black",202.6
+"san benito",2018,"Black",NA
+"san bernardino",2018,"Black",122.7
+"san diego",2018,"Black",99.9
+"san francisco",2018,"Black",227.6
+"san joaquin",2018,"Black",207.8
+"san luis obispo",2018,"Black",101
+"san mateo",2018,"Black",86.3
+"santa barbara",2018,"Black",113.3
+"santa clara",2018,"Black",101.7
+"santa cruz",2018,"Black",117.4
+"shasta",2018,"Black",174.6
+"sierra",2018,"Black",0
+"siskiyou",2018,"Black",NA
+"solano",2018,"Black",219.9
+"sonoma",2018,"Black",124
+"stanislaus",2018,"Black",198
+"sutter",2018,"Black",137.3
+"tehama",2018,"Black",NA
+"trinity",2018,"Black",0
+"tulare",2018,"Black",99.7
+"tuolumne",2018,"Black",NA
+"ventura",2018,"Black",105.7
+"yolo",2018,"Black",151.3
+"yuba",2018,"Black",242.3
+"alameda",2018,"Hispanic",45.1
+"alpine",2018,"Hispanic",0
+"amador",2018,"Hispanic",36.7
+"butte",2018,"Hispanic",18.5
+"calaveras",2018,"Hispanic",23.7
+"colusa",2018,"Hispanic",46.2
+"contra costa",2018,"Hispanic",57.2
+"del norte",2018,"Hispanic",27.7
+"el dorado",2018,"Hispanic",31.4
+"fresno",2018,"Hispanic",69.7
+"glenn",2018,"Hispanic",19.7
+"humboldt",2018,"Hispanic",36.1
+"imperial",2018,"Hispanic",57.9
+"inyo",2018,"Hispanic",41.6
+"kern",2018,"Hispanic",40
+"kings",2018,"Hispanic",47.6
+"lake",2018,"Hispanic",75.6
+"lassen",2018,"Hispanic",NA
+"los angeles",2018,"Hispanic",46
+"madera",2018,"Hispanic",54.7
+"marin",2018,"Hispanic",35.4
+"mariposa",2018,"Hispanic",NA
+"mendocino",2018,"Hispanic",53.5
+"merced",2018,"Hispanic",60.1
+"modoc",2018,"Hispanic",NA
+"mono",2018,"Hispanic",58.4
+"monterey",2018,"Hispanic",36.9
+"napa",2018,"Hispanic",36.6
+"nevada",2018,"Hispanic",26.4
+"orange",2018,"Hispanic",28.2
+"placer",2018,"Hispanic",38.2
+"plumas",2018,"Hispanic",NA
+"riverside",2018,"Hispanic",32.4
+"sacramento",2018,"Hispanic",60.1
+"san benito",2018,"Hispanic",61.5
+"san bernardino",2018,"Hispanic",37.6
+"san diego",2018,"Hispanic",29.5
+"san francisco",2018,"Hispanic",48.1
+"san joaquin",2018,"Hispanic",50.1
+"san luis obispo",2018,"Hispanic",25.6
+"san mateo",2018,"Hispanic",41
+"santa barbara",2018,"Hispanic",27.3
+"santa clara",2018,"Hispanic",41.5
+"santa cruz",2018,"Hispanic",29.8
+"shasta",2018,"Hispanic",26.3
+"sierra",2018,"Hispanic",0
+"siskiyou",2018,"Hispanic",18.7
+"solano",2018,"Hispanic",59.5
+"sonoma",2018,"Hispanic",41.9
+"stanislaus",2018,"Hispanic",46.3
+"sutter",2018,"Hispanic",24.6
+"tehama",2018,"Hispanic",31.6
+"trinity",2018,"Hispanic",NA
+"tulare",2018,"Hispanic",29
+"tuolumne",2018,"Hispanic",38.3
+"ventura",2018,"Hispanic",31.6
+"yolo",2018,"Hispanic",39.3
+"yuba",2018,"Hispanic",29.3
+"alameda",2018,"Asian/PI",24.4
+"alpine",2018,"Asian/PI",0
+"amador",2018,"Asian/PI",0
+"butte",2018,"Asian/PI",18
+"calaveras",2018,"Asian/PI",NA
+"colusa",2018,"Asian/PI",NA
+"contra costa",2018,"Asian/PI",30
+"del norte",2018,"Asian/PI",NA
+"el dorado",2018,"Asian/PI",27.2
+"fresno",2018,"Asian/PI",25.9
+"glenn",2018,"Asian/PI",NA
+"humboldt",2018,"Asian/PI",45.9
+"imperial",2018,"Asian/PI",NA
+"inyo",2018,"Asian/PI",NA
+"kern",2018,"Asian/PI",17.9
+"kings",2018,"Asian/PI",NA
+"lake",2018,"Asian/PI",NA
+"lassen",2018,"Asian/PI",0
+"los angeles",2018,"Asian/PI",16.2
+"madera",2018,"Asian/PI",NA
+"marin",2018,"Asian/PI",15.9
+"mariposa",2018,"Asian/PI",0
+"mendocino",2018,"Asian/PI",NA
+"merced",2018,"Asian/PI",26.5
+"modoc",2018,"Asian/PI",NA
+"mono",2018,"Asian/PI",NA
+"monterey",2018,"Asian/PI",18.3
+"napa",2018,"Asian/PI",27.9
+"nevada",2018,"Asian/PI",NA
+"orange",2018,"Asian/PI",14.1
+"placer",2018,"Asian/PI",29.9
+"plumas",2018,"Asian/PI",NA
+"riverside",2018,"Asian/PI",18.5
+"sacramento",2018,"Asian/PI",39.7
+"san benito",2018,"Asian/PI",NA
+"san bernardino",2018,"Asian/PI",17.5
+"san diego",2018,"Asian/PI",19.4
+"san francisco",2018,"Asian/PI",21.1
+"san joaquin",2018,"Asian/PI",34.9
+"san luis obispo",2018,"Asian/PI",NA
+"san mateo",2018,"Asian/PI",20.2
+"santa barbara",2018,"Asian/PI",21.1
+"santa clara",2018,"Asian/PI",13.3
+"santa cruz",2018,"Asian/PI",NA
+"shasta",2018,"Asian/PI",63.3
+"sierra",2018,"Asian/PI",0
+"siskiyou",2018,"Asian/PI",NA
+"solano",2018,"Asian/PI",54.7
+"sonoma",2018,"Asian/PI",35.6
+"stanislaus",2018,"Asian/PI",28.9
+"sutter",2018,"Asian/PI",16.3
+"tehama",2018,"Asian/PI",0
+"trinity",2018,"Asian/PI",NA
+"tulare",2018,"Asian/PI",13.8
+"tuolumne",2018,"Asian/PI",NA
+"ventura",2018,"Asian/PI",12.6
+"yolo",2018,"Asian/PI",21.8
+"yuba",2018,"Asian/PI",NA
+"alameda",2018,"AI/AN",47.8
+"alpine",2018,"AI/AN",0
+"amador",2018,"AI/AN",NA
+"butte",2018,"AI/AN",NA
+"calaveras",2018,"AI/AN",NA
+"colusa",2018,"AI/AN",0
+"contra costa",2018,"AI/AN",47.8
+"del norte",2018,"AI/AN",NA
+"el dorado",2018,"AI/AN",NA
+"fresno",2018,"AI/AN",23.9
+"glenn",2018,"AI/AN",NA
+"humboldt",2018,"AI/AN",59.9
+"imperial",2018,"AI/AN",0
+"inyo",2018,"AI/AN",NA
+"kern",2018,"AI/AN",NA
+"kings",2018,"AI/AN",NA
+"lake",2018,"AI/AN",109.3
+"lassen",2018,"AI/AN",NA
+"los angeles",2018,"AI/AN",31
+"madera",2018,"AI/AN",NA
+"marin",2018,"AI/AN",NA
+"mariposa",2018,"AI/AN",NA
+"mendocino",2018,"AI/AN",69.4
+"merced",2018,"AI/AN",NA
+"modoc",2018,"AI/AN",NA
+"mono",2018,"AI/AN",NA
+"monterey",2018,"AI/AN",NA
+"napa",2018,"AI/AN",NA
+"nevada",2018,"AI/AN",0
+"orange",2018,"AI/AN",23
+"placer",2018,"AI/AN",NA
+"plumas",2018,"AI/AN",NA
+"riverside",2018,"AI/AN",33.5
+"sacramento",2018,"AI/AN",41.4
+"san benito",2018,"AI/AN",0
+"san bernardino",2018,"AI/AN",203.4
+"san diego",2018,"AI/AN",26.1
+"san francisco",2018,"AI/AN",145.7
+"san joaquin",2018,"AI/AN",NA
+"san luis obispo",2018,"AI/AN",0
+"san mateo",2018,"AI/AN",NA
+"santa barbara",2018,"AI/AN",NA
+"santa clara",2018,"AI/AN",NA
+"santa cruz",2018,"AI/AN",0
+"shasta",2018,"AI/AN",38.8
+"sierra",2018,"AI/AN",0
+"siskiyou",2018,"AI/AN",NA
+"solano",2018,"AI/AN",NA
+"sonoma",2018,"AI/AN",41.5
+"stanislaus",2018,"AI/AN",NA
+"sutter",2018,"AI/AN",0
+"tehama",2018,"AI/AN",0
+"trinity",2018,"AI/AN",0
+"tulare",2018,"AI/AN",NA
+"tuolumne",2018,"AI/AN",NA
+"ventura",2018,"AI/AN",0
+"yolo",2018,"AI/AN",NA
+"yuba",2018,"AI/AN",NA
+"alameda",2019,"White",21.5
+"alpine",2019,"White",0
+"amador",2019,"White",56.9
+"butte",2019,"White",36.4
+"calaveras",2019,"White",58
+"colusa",2019,"White",46.3
+"contra costa",2019,"White",29.1
+"del norte",2019,"White",57.9
+"el dorado",2019,"White",37.4
+"fresno",2019,"White",43.8
+"glenn",2019,"White",31.5
+"humboldt",2019,"White",41.8
+"imperial",2019,"White",70.3
+"inyo",2019,"White",68.4
+"kern",2019,"White",38.1
+"kings",2019,"White",50.9
+"lake",2019,"White",84.6
+"lassen",2019,"White",33.4
+"los angeles",2019,"White",25.2
+"madera",2019,"White",44.5
+"marin",2019,"White",17.7
+"mariposa",2019,"White",35.1
+"mendocino",2019,"White",62.2
+"merced",2019,"White",61.5
+"modoc",2019,"White",78.3
+"mono",2019,"White",26.7
+"monterey",2019,"White",24.3
+"napa",2019,"White",33.9
+"nevada",2019,"White",28.2
+"orange",2019,"White",24.9
+"placer",2019,"White",27.2
+"plumas",2019,"White",55.4
+"riverside",2019,"White",34.4
+"sacramento",2019,"White",38.4
+"san benito",2019,"White",42
+"san bernardino",2019,"White",46.6
+"san diego",2019,"White",18.8
+"san francisco",2019,"White",17.2
+"san joaquin",2019,"White",48.9
+"san luis obispo",2019,"White",28.7
+"san mateo",2019,"White",18.6
+"santa barbara",2019,"White",23.8
+"santa clara",2019,"White",17.1
+"santa cruz",2019,"White",26.7
+"shasta",2019,"White",39.8
+"sierra",2019,"White",NA
+"siskiyou",2019,"White",39.3
+"solano",2019,"White",51.8
+"sonoma",2019,"White",26.3
+"stanislaus",2019,"White",49.5
+"sutter",2019,"White",30.3
+"tehama",2019,"White",41.8
+"trinity",2019,"White",47.4
+"tulare",2019,"White",40.2
+"tuolumne",2019,"White",49.7
+"ventura",2019,"White",31.9
+"yolo",2019,"White",30.2
+"yuba",2019,"White",41.9
+"alameda",2019,"Black",156.8
+"alpine",2019,"Black",0
+"amador",2019,"Black",NA
+"butte",2019,"Black",227.1
+"calaveras",2019,"Black",NA
+"colusa",2019,"Black",NA
+"contra costa",2019,"Black",180.5
+"del norte",2019,"Black",NA
+"el dorado",2019,"Black",101.1
+"fresno",2019,"Black",195.1
+"glenn",2019,"Black",NA
+"humboldt",2019,"Black",388.9
+"imperial",2019,"Black",87
+"inyo",2019,"Black",NA
+"kern",2019,"Black",181.5
+"kings",2019,"Black",112.6
+"lake",2019,"Black",390.3
+"lassen",2019,"Black",NA
+"los angeles",2019,"Black",153.1
+"madera",2019,"Black",132.9
+"marin",2019,"Black",116.7
+"mariposa",2019,"Black",NA
+"mendocino",2019,"Black",442.6
+"merced",2019,"Black",204
+"modoc",2019,"Black",0
+"mono",2019,"Black",0
+"monterey",2019,"Black",79.7
+"napa",2019,"Black",116.9
+"nevada",2019,"Black",NA
+"orange",2019,"Black",104.3
+"placer",2019,"Black",110.9
+"plumas",2019,"Black",NA
+"riverside",2019,"Black",124.3
+"sacramento",2019,"Black",185.2
+"san benito",2019,"Black",NA
+"san bernardino",2019,"Black",129.5
+"san diego",2019,"Black",95.9
+"san francisco",2019,"Black",191.6
+"san joaquin",2019,"Black",188.2
+"san luis obispo",2019,"Black",90.1
+"san mateo",2019,"Black",50
+"santa barbara",2019,"Black",111
+"santa clara",2019,"Black",89.5
+"santa cruz",2019,"Black",NA
+"shasta",2019,"Black",194.9
+"sierra",2019,"Black",0
+"siskiyou",2019,"Black",NA
+"solano",2019,"Black",174.9
+"sonoma",2019,"Black",150.9
+"stanislaus",2019,"Black",167.3
+"sutter",2019,"Black",94.6
+"tehama",2019,"Black",NA
+"trinity",2019,"Black",0
+"tulare",2019,"Black",183.4
+"tuolumne",2019,"Black",NA
+"ventura",2019,"Black",96.5
+"yolo",2019,"Black",150.5
+"yuba",2019,"Black",176.1
+"alameda",2019,"Hispanic",45.4
+"alpine",2019,"Hispanic",0
+"amador",2019,"Hispanic",42.3
+"butte",2019,"Hispanic",24.4
+"calaveras",2019,"Hispanic",37.6
+"colusa",2019,"Hispanic",44.2
+"contra costa",2019,"Hispanic",58.1
+"del norte",2019,"Hispanic",63.4
+"el dorado",2019,"Hispanic",20.1
+"fresno",2019,"Hispanic",66
+"glenn",2019,"Hispanic",41
+"humboldt",2019,"Hispanic",38.2
+"imperial",2019,"Hispanic",60
+"inyo",2019,"Hispanic",42.8
+"kern",2019,"Hispanic",39.1
+"kings",2019,"Hispanic",46.2
+"lake",2019,"Hispanic",79.4
+"lassen",2019,"Hispanic",30.7
+"los angeles",2019,"Hispanic",46.5
+"madera",2019,"Hispanic",51.5
+"marin",2019,"Hispanic",28.3
+"mariposa",2019,"Hispanic",NA
+"mendocino",2019,"Hispanic",47.2
+"merced",2019,"Hispanic",56.2
+"modoc",2019,"Hispanic",NA
+"mono",2019,"Hispanic",63.7
+"monterey",2019,"Hispanic",39.1
+"napa",2019,"Hispanic",42.5
+"nevada",2019,"Hispanic",23.1
+"orange",2019,"Hispanic",29.6
+"placer",2019,"Hispanic",30.2
+"plumas",2019,"Hispanic",NA
+"riverside",2019,"Hispanic",33.7
+"sacramento",2019,"Hispanic",51.7
+"san benito",2019,"Hispanic",70.4
+"san bernardino",2019,"Hispanic",40.4
+"san diego",2019,"Hispanic",32.3
+"san francisco",2019,"Hispanic",46.8
+"san joaquin",2019,"Hispanic",46.8
+"san luis obispo",2019,"Hispanic",30.3
+"san mateo",2019,"Hispanic",39.1
+"santa barbara",2019,"Hispanic",28.9
+"santa clara",2019,"Hispanic",37.4
+"santa cruz",2019,"Hispanic",34.4
+"shasta",2019,"Hispanic",26.5
+"sierra",2019,"Hispanic",0
+"siskiyou",2019,"Hispanic",33.4
+"solano",2019,"Hispanic",53.5
+"sonoma",2019,"Hispanic",33.9
+"stanislaus",2019,"Hispanic",47.7
+"sutter",2019,"Hispanic",25.9
+"tehama",2019,"Hispanic",41.6
+"trinity",2019,"Hispanic",NA
+"tulare",2019,"Hispanic",39.4
+"tuolumne",2019,"Hispanic",36.3
+"ventura",2019,"Hispanic",28.3
+"yolo",2019,"Hispanic",35.1
+"yuba",2019,"Hispanic",35.6
+"alameda",2019,"Asian/PI",19.5
+"alpine",2019,"Asian/PI",0
+"amador",2019,"Asian/PI",0
+"butte",2019,"Asian/PI",14.8
+"calaveras",2019,"Asian/PI",NA
+"colusa",2019,"Asian/PI",0
+"contra costa",2019,"Asian/PI",23
+"del norte",2019,"Asian/PI",NA
+"el dorado",2019,"Asian/PI",23.8
+"fresno",2019,"Asian/PI",23.7
+"glenn",2019,"Asian/PI",NA
+"humboldt",2019,"Asian/PI",NA
+"imperial",2019,"Asian/PI",NA
+"inyo",2019,"Asian/PI",NA
+"kern",2019,"Asian/PI",21.1
+"kings",2019,"Asian/PI",NA
+"lake",2019,"Asian/PI",NA
+"lassen",2019,"Asian/PI",NA
+"los angeles",2019,"Asian/PI",14.9
+"madera",2019,"Asian/PI",NA
+"marin",2019,"Asian/PI",9.9
+"mariposa",2019,"Asian/PI",0
+"mendocino",2019,"Asian/PI",0
+"merced",2019,"Asian/PI",20.6
+"modoc",2019,"Asian/PI",0
+"mono",2019,"Asian/PI",NA
+"monterey",2019,"Asian/PI",17.9
+"napa",2019,"Asian/PI",24.5
+"nevada",2019,"Asian/PI",NA
+"orange",2019,"Asian/PI",13.2
+"placer",2019,"Asian/PI",26.6
+"plumas",2019,"Asian/PI",NA
+"riverside",2019,"Asian/PI",16.2
+"sacramento",2019,"Asian/PI",33.4
+"san benito",2019,"Asian/PI",NA
+"san bernardino",2019,"Asian/PI",13.9
+"san diego",2019,"Asian/PI",18
+"san francisco",2019,"Asian/PI",16.2
+"san joaquin",2019,"Asian/PI",31.1
+"san luis obispo",2019,"Asian/PI",NA
+"san mateo",2019,"Asian/PI",13.2
+"santa barbara",2019,"Asian/PI",10.9
+"santa clara",2019,"Asian/PI",12.1
+"santa cruz",2019,"Asian/PI",12
+"shasta",2019,"Asian/PI",55.9
+"sierra",2019,"Asian/PI",0
+"siskiyou",2019,"Asian/PI",NA
+"solano",2019,"Asian/PI",37
+"sonoma",2019,"Asian/PI",17.4
+"stanislaus",2019,"Asian/PI",22.2
+"sutter",2019,"Asian/PI",13.1
+"tehama",2019,"Asian/PI",0
+"trinity",2019,"Asian/PI",0
+"tulare",2019,"Asian/PI",23.4
+"tuolumne",2019,"Asian/PI",0
+"ventura",2019,"Asian/PI",7.4
+"yolo",2019,"Asian/PI",13.1
+"yuba",2019,"Asian/PI",NA
+"alameda",2019,"AI/AN",50.5
+"alpine",2019,"AI/AN",NA
+"amador",2019,"AI/AN",0
+"butte",2019,"AI/AN",NA
+"calaveras",2019,"AI/AN",NA
+"colusa",2019,"AI/AN",0
+"contra costa",2019,"AI/AN",NA
+"del norte",2019,"AI/AN",NA
+"el dorado",2019,"AI/AN",NA
+"fresno",2019,"AI/AN",20.4
+"glenn",2019,"AI/AN",NA
+"humboldt",2019,"AI/AN",50.3
+"imperial",2019,"AI/AN",0
+"inyo",2019,"AI/AN",107.8
+"kern",2019,"AI/AN",22.8
+"kings",2019,"AI/AN",NA
+"lake",2019,"AI/AN",NA
+"lassen",2019,"AI/AN",NA
+"los angeles",2019,"AI/AN",33.9
+"madera",2019,"AI/AN",NA
+"marin",2019,"AI/AN",0
+"mariposa",2019,"AI/AN",NA
+"mendocino",2019,"AI/AN",107.7
+"merced",2019,"AI/AN",0
+"modoc",2019,"AI/AN",NA
+"mono",2019,"AI/AN",NA
+"monterey",2019,"AI/AN",78
+"napa",2019,"AI/AN",NA
+"nevada",2019,"AI/AN",0
+"orange",2019,"AI/AN",NA
+"placer",2019,"AI/AN",NA
+"plumas",2019,"AI/AN",NA
+"riverside",2019,"AI/AN",36
+"sacramento",2019,"AI/AN",25.6
+"san benito",2019,"AI/AN",0
+"san bernardino",2019,"AI/AN",22.9
+"san diego",2019,"AI/AN",24.2
+"san francisco",2019,"AI/AN",NA
+"san joaquin",2019,"AI/AN",NA
+"san luis obispo",2019,"AI/AN",NA
+"san mateo",2019,"AI/AN",NA
+"santa barbara",2019,"AI/AN",0
+"santa clara",2019,"AI/AN",NA
+"santa cruz",2019,"AI/AN",0
+"shasta",2019,"AI/AN",NA
+"sierra",2019,"AI/AN",0
+"siskiyou",2019,"AI/AN",98.2
+"solano",2019,"AI/AN",NA
+"sonoma",2019,"AI/AN",NA
+"stanislaus",2019,"AI/AN",NA
+"sutter",2019,"AI/AN",NA
+"tehama",2019,"AI/AN",NA
+"trinity",2019,"AI/AN",0
+"tulare",2019,"AI/AN",NA
+"tuolumne",2019,"AI/AN",NA
+"ventura",2019,"AI/AN",0
+"yolo",2019,"AI/AN",NA
+"yuba",2019,"AI/AN",NA
+"alameda",2020,"White",13.1
+"alpine",2020,"White",0
+"amador",2020,"White",37.6
+"butte",2020,"White",21.4
+"calaveras",2020,"White",30
+"colusa",2020,"White",30.6
+"contra costa",2020,"White",15
+"del norte",2020,"White",50.3
+"el dorado",2020,"White",20.6
+"fresno",2020,"White",26.3
+"glenn",2020,"White",16.3
+"humboldt",2020,"White",31.7
+"imperial",2020,"White",21.8
+"inyo",2020,"White",22.9
+"kern",2020,"White",21.5
+"kings",2020,"White",22.2
+"lake",2020,"White",44.1
+"lassen",2020,"White",33.2
+"los angeles",2020,"White",15.3
+"madera",2020,"White",26.9
+"marin",2020,"White",8.1
+"mariposa",2020,"White",20.3
+"mendocino",2020,"White",43
+"merced",2020,"White",32
+"modoc",2020,"White",31.7
+"mono",2020,"White",24.7
+"monterey",2020,"White",17
+"napa",2020,"White",19.7
+"nevada",2020,"White",21.2
+"orange",2020,"White",14.6
+"placer",2020,"White",15.8
+"plumas",2020,"White",37.7
+"riverside",2020,"White",21.7
+"sacramento",2020,"White",23.3
+"san benito",2020,"White",27.9
+"san bernardino",2020,"White",27.2
+"san diego",2020,"White",11.6
+"san francisco",2020,"White",9.4
+"san joaquin",2020,"White",27
+"san luis obispo",2020,"White",16.5
+"san mateo",2020,"White",9.8
+"santa barbara",2020,"White",13.2
+"santa clara",2020,"White",11
+"santa cruz",2020,"White",15.4
+"shasta",2020,"White",25
+"sierra",2020,"White",NA
+"siskiyou",2020,"White",24.9
+"solano",2020,"White",32
+"sonoma",2020,"White",16.7
+"stanislaus",2020,"White",29.8
+"sutter",2020,"White",19.6
+"tehama",2020,"White",23.8
+"trinity",2020,"White",28.7
+"tulare",2020,"White",22.1
+"tuolumne",2020,"White",30.5
+"ventura",2020,"White",15.5
+"yolo",2020,"White",15.9
+"yuba",2020,"White",26.2
+"alameda",2020,"Black",89.8
+"alpine",2020,"Black",0
+"amador",2020,"Black",NA
+"butte",2020,"Black",134.4
+"calaveras",2020,"Black",NA
+"colusa",2020,"Black",NA
+"contra costa",2020,"Black",98.7
+"del norte",2020,"Black",NA
+"el dorado",2020,"Black",92.6
+"fresno",2020,"Black",108.9
+"glenn",2020,"Black",0
+"humboldt",2020,"Black",242
+"imperial",2020,"Black",NA
+"inyo",2020,"Black",NA
+"kern",2020,"Black",100.6
+"kings",2020,"Black",50.8
+"lake",2020,"Black",246.3
+"lassen",2020,"Black",NA
+"los angeles",2020,"Black",82.8
+"madera",2020,"Black",60.6
+"marin",2020,"Black",46.1
+"mariposa",2020,"Black",NA
+"mendocino",2020,"Black",NA
+"merced",2020,"Black",140.9
+"modoc",2020,"Black",0
+"mono",2020,"Black",0
+"monterey",2020,"Black",56.4
+"napa",2020,"Black",95.1
+"nevada",2020,"Black",NA
+"orange",2020,"Black",62.2
+"placer",2020,"Black",61
+"plumas",2020,"Black",NA
+"riverside",2020,"Black",75.6
+"sacramento",2020,"Black",117.3
+"san benito",2020,"Black",NA
+"san bernardino",2020,"Black",81.2
+"san diego",2020,"Black",56.1
+"san francisco",2020,"Black",100
+"san joaquin",2020,"Black",129.9
+"san luis obispo",2020,"Black",NA
+"san mateo",2020,"Black",33.8
+"santa barbara",2020,"Black",66.1
+"santa clara",2020,"Black",56.5
+"santa cruz",2020,"Black",74.1
+"shasta",2020,"Black",79.1
+"sierra",2020,"Black",0
+"siskiyou",2020,"Black",NA
+"solano",2020,"Black",99.5
+"sonoma",2020,"Black",63.9
+"stanislaus",2020,"Black",111.3
+"sutter",2020,"Black",88.5
+"tehama",2020,"Black",NA
+"trinity",2020,"Black",0
+"tulare",2020,"Black",119.5
+"tuolumne",2020,"Black",NA
+"ventura",2020,"Black",51.9
+"yolo",2020,"Black",123.9
+"yuba",2020,"Black",99.8
+"alameda",2020,"Hispanic",23.4
+"alpine",2020,"Hispanic",0
+"amador",2020,"Hispanic",NA
+"butte",2020,"Hispanic",19.7
+"calaveras",2020,"Hispanic",30.2
+"colusa",2020,"Hispanic",15.2
+"contra costa",2020,"Hispanic",28.9
+"del norte",2020,"Hispanic",34.1
+"el dorado",2020,"Hispanic",19.8
+"fresno",2020,"Hispanic",34.7
+"glenn",2020,"Hispanic",23.6
+"humboldt",2020,"Hispanic",25.9
+"imperial",2020,"Hispanic",26.4
+"inyo",2020,"Hispanic",27.2
+"kern",2020,"Hispanic",24.5
+"kings",2020,"Hispanic",30.2
+"lake",2020,"Hispanic",43.9
+"lassen",2020,"Hispanic",NA
+"los angeles",2020,"Hispanic",25
+"madera",2020,"Hispanic",33.3
+"marin",2020,"Hispanic",17.4
+"mariposa",2020,"Hispanic",NA
+"mendocino",2020,"Hispanic",31
+"merced",2020,"Hispanic",37.6
+"modoc",2020,"Hispanic",NA
+"mono",2020,"Hispanic",41.4
+"monterey",2020,"Hispanic",21.7
+"napa",2020,"Hispanic",27.4
+"nevada",2020,"Hispanic",17.3
+"orange",2020,"Hispanic",17.9
+"placer",2020,"Hispanic",13.7
+"plumas",2020,"Hispanic",NA
+"riverside",2020,"Hispanic",22
+"sacramento",2020,"Hispanic",32.5
+"san benito",2020,"Hispanic",40.9
+"san bernardino",2020,"Hispanic",25.1
+"san diego",2020,"Hispanic",18.9
+"san francisco",2020,"Hispanic",25
+"san joaquin",2020,"Hispanic",32.3
+"san luis obispo",2020,"Hispanic",20
+"san mateo",2020,"Hispanic",20.4
+"santa barbara",2020,"Hispanic",15.1
+"santa clara",2020,"Hispanic",22.4
+"santa cruz",2020,"Hispanic",19.1
+"shasta",2020,"Hispanic",15.7
+"sierra",2020,"Hispanic",0
+"siskiyou",2020,"Hispanic",NA
+"solano",2020,"Hispanic",33.5
+"sonoma",2020,"Hispanic",20.2
+"stanislaus",2020,"Hispanic",31.6
+"sutter",2020,"Hispanic",21.8
+"tehama",2020,"Hispanic",30.3
+"trinity",2020,"Hispanic",NA
+"tulare",2020,"Hispanic",23.9
+"tuolumne",2020,"Hispanic",28.6
+"ventura",2020,"Hispanic",17.9
+"yolo",2020,"Hispanic",31.9
+"yuba",2020,"Hispanic",22.6
+"alameda",2020,"Asian/PI",11.7
+"alpine",2020,"Asian/PI",0
+"amador",2020,"Asian/PI",0
+"butte",2020,"Asian/PI",15.6
+"calaveras",2020,"Asian/PI",NA
+"colusa",2020,"Asian/PI",0
+"contra costa",2020,"Asian/PI",11.8
+"del norte",2020,"Asian/PI",NA
+"el dorado",2020,"Asian/PI",NA
+"fresno",2020,"Asian/PI",12.9
+"glenn",2020,"Asian/PI",0
+"humboldt",2020,"Asian/PI",NA
+"imperial",2020,"Asian/PI",NA
+"inyo",2020,"Asian/PI",0
+"kern",2020,"Asian/PI",13.7
+"kings",2020,"Asian/PI",NA
+"lake",2020,"Asian/PI",NA
+"lassen",2020,"Asian/PI",NA
+"los angeles",2020,"Asian/PI",9.2
+"madera",2020,"Asian/PI",NA
+"marin",2020,"Asian/PI",NA
+"mariposa",2020,"Asian/PI",NA
+"mendocino",2020,"Asian/PI",NA
+"merced",2020,"Asian/PI",10.1
+"modoc",2020,"Asian/PI",NA
+"mono",2020,"Asian/PI",NA
+"monterey",2020,"Asian/PI",10.5
+"napa",2020,"Asian/PI",12.2
+"nevada",2020,"Asian/PI",NA
+"orange",2020,"Asian/PI",7.7
+"placer",2020,"Asian/PI",14
+"plumas",2020,"Asian/PI",NA
+"riverside",2020,"Asian/PI",9.3
+"sacramento",2020,"Asian/PI",18.9
+"san benito",2020,"Asian/PI",NA
+"san bernardino",2020,"Asian/PI",9.5
+"san diego",2020,"Asian/PI",10.2
+"san francisco",2020,"Asian/PI",7.1
+"san joaquin",2020,"Asian/PI",20.3
+"san luis obispo",2020,"Asian/PI",NA
+"san mateo",2020,"Asian/PI",9.3
+"santa barbara",2020,"Asian/PI",8
+"santa clara",2020,"Asian/PI",7.4
+"santa cruz",2020,"Asian/PI",NA
+"shasta",2020,"Asian/PI",34
+"sierra",2020,"Asian/PI",0
+"siskiyou",2020,"Asian/PI",NA
+"solano",2020,"Asian/PI",25.1
+"sonoma",2020,"Asian/PI",14.2
+"stanislaus",2020,"Asian/PI",18.8
+"sutter",2020,"Asian/PI",NA
+"tehama",2020,"Asian/PI",NA
+"trinity",2020,"Asian/PI",NA
+"tulare",2020,"Asian/PI",9.1
+"tuolumne",2020,"Asian/PI",0
+"ventura",2020,"Asian/PI",6.2
+"yolo",2020,"Asian/PI",6.7
+"yuba",2020,"Asian/PI",0
+"alameda",2020,"AI/AN",NA
+"alpine",2020,"AI/AN",0
+"amador",2020,"AI/AN",0
+"butte",2020,"AI/AN",NA
+"calaveras",2020,"AI/AN",0
+"colusa",2020,"AI/AN",0
+"contra costa",2020,"AI/AN",NA
+"del norte",2020,"AI/AN",NA
+"el dorado",2020,"AI/AN",NA
+"fresno",2020,"AI/AN",NA
+"glenn",2020,"AI/AN",NA
+"humboldt",2020,"AI/AN",39.1
+"imperial",2020,"AI/AN",0
+"inyo",2020,"AI/AN",NA
+"kern",2020,"AI/AN",NA
+"kings",2020,"AI/AN",NA
+"lake",2020,"AI/AN",NA
+"lassen",2020,"AI/AN",NA
+"los angeles",2020,"AI/AN",27.3
+"madera",2020,"AI/AN",0
+"marin",2020,"AI/AN",0
+"mariposa",2020,"AI/AN",NA
+"mendocino",2020,"AI/AN",56
+"merced",2020,"AI/AN",0
+"modoc",2020,"AI/AN",NA
+"mono",2020,"AI/AN",0
+"monterey",2020,"AI/AN",NA
+"napa",2020,"AI/AN",NA
+"nevada",2020,"AI/AN",NA
+"orange",2020,"AI/AN",NA
+"placer",2020,"AI/AN",NA
+"plumas",2020,"AI/AN",NA
+"riverside",2020,"AI/AN",17.9
+"sacramento",2020,"AI/AN",15.8
+"san benito",2020,"AI/AN",0
+"san bernardino",2020,"AI/AN",14.8
+"san diego",2020,"AI/AN",14.7
+"san francisco",2020,"AI/AN",NA
+"san joaquin",2020,"AI/AN",NA
+"san luis obispo",2020,"AI/AN",0
+"san mateo",2020,"AI/AN",NA
+"santa barbara",2020,"AI/AN",NA
+"santa clara",2020,"AI/AN",NA
+"santa cruz",2020,"AI/AN",NA
+"shasta",2020,"AI/AN",31.2
+"sierra",2020,"AI/AN",0
+"siskiyou",2020,"AI/AN",NA
+"solano",2020,"AI/AN",NA
+"sonoma",2020,"AI/AN",NA
+"stanislaus",2020,"AI/AN",NA
+"sutter",2020,"AI/AN",0
+"tehama",2020,"AI/AN",NA
+"trinity",2020,"AI/AN",0
+"tulare",2020,"AI/AN",NA
+"tuolumne",2020,"AI/AN",NA
+"ventura",2020,"AI/AN",0
+"yolo",2020,"AI/AN",0
+"yuba",2020,"AI/AN",NA
+"alameda",2021,"White",10.6
+"alpine",2021,"White",0
+"amador",2021,"White",35.9
+"butte",2021,"White",17.1
+"calaveras",2021,"White",39.7
+"colusa",2021,"White",28.3
+"contra costa",2021,"White",13.4
+"del norte",2021,"White",44.7
+"el dorado",2021,"White",23.2
+"fresno",2021,"White",22.6
+"glenn",2021,"White",27.6
+"humboldt",2021,"White",22.3
+"imperial",2021,"White",18.5
+"inyo",2021,"White",30.6
+"kern",2021,"White",18.6
+"kings",2021,"White",28.1
+"lake",2021,"White",35.8
+"lassen",2021,"White",34.1
+"los angeles",2021,"White",14.4
+"madera",2021,"White",24
+"marin",2021,"White",10.5
+"mariposa",2021,"White",14.8
+"mendocino",2021,"White",36.6
+"merced",2021,"White",29
+"modoc",2021,"White",37.3
+"mono",2021,"White",16.9
+"monterey",2021,"White",13.8
+"napa",2021,"White",12
+"nevada",2021,"White",19.9
+"orange",2021,"White",13.8
+"placer",2021,"White",18.7
+"plumas",2021,"White",21.8
+"riverside",2021,"White",21
+"sacramento",2021,"White",20.2
+"san benito",2021,"White",13.8
+"san bernardino",2021,"White",23.6
+"san diego",2021,"White",11.8
+"san francisco",2021,"White",7.6
+"san joaquin",2021,"White",23.9
+"san luis obispo",2021,"White",12.7
+"san mateo",2021,"White",7.9
+"santa barbara",2021,"White",14
+"santa clara",2021,"White",8.8
+"santa cruz",2021,"White",13
+"shasta",2021,"White",26.7
+"sierra",2021,"White",NA
+"siskiyou",2021,"White",21.7
+"solano",2021,"White",26.3
+"sonoma",2021,"White",11.5
+"stanislaus",2021,"White",27.9
+"sutter",2021,"White",22.5
+"tehama",2021,"White",30.6
+"trinity",2021,"White",29.8
+"tulare",2021,"White",22.5
+"tuolumne",2021,"White",24.1
+"ventura",2021,"White",13.6
+"yolo",2021,"White",16.1
+"yuba",2021,"White",30.8
+"alameda",2021,"Black",83.4
+"alpine",2021,"Black",0
+"amador",2021,"Black",NA
+"butte",2021,"Black",113.9
+"calaveras",2021,"Black",NA
+"colusa",2021,"Black",0
+"contra costa",2021,"Black",94.1
+"del norte",2021,"Black",NA
+"el dorado",2021,"Black",116.9
+"fresno",2021,"Black",119.3
+"glenn",2021,"Black",0
+"humboldt",2021,"Black",167.7
+"imperial",2021,"Black",NA
+"inyo",2021,"Black",0
+"kern",2021,"Black",102.6
+"kings",2021,"Black",50.9
+"lake",2021,"Black",265.9
+"lassen",2021,"Black",NA
+"los angeles",2021,"Black",90
+"madera",2021,"Black",64.3
+"marin",2021,"Black",63.5
+"mariposa",2021,"Black",0
+"mendocino",2021,"Black",222.5
+"merced",2021,"Black",140.3
+"modoc",2021,"Black",0
+"mono",2021,"Black",NA
+"monterey",2021,"Black",48.5
+"napa",2021,"Black",NA
+"nevada",2021,"Black",NA
+"orange",2021,"Black",68.3
+"placer",2021,"Black",91.9
+"plumas",2021,"Black",NA
+"riverside",2021,"Black",81
+"sacramento",2021,"Black",110.4
+"san benito",2021,"Black",NA
+"san bernardino",2021,"Black",79.7
+"san diego",2021,"Black",54.4
+"san francisco",2021,"Black",108.8
+"san joaquin",2021,"Black",120.9
+"san luis obispo",2021,"Black",NA
+"san mateo",2021,"Black",32.9
+"santa barbara",2021,"Black",50.6
+"santa clara",2021,"Black",50.3
+"santa cruz",2021,"Black",NA
+"shasta",2021,"Black",67
+"sierra",2021,"Black",NA
+"siskiyou",2021,"Black",NA
+"solano",2021,"Black",106.6
+"sonoma",2021,"Black",55.9
+"stanislaus",2021,"Black",89.9
+"sutter",2021,"Black",87.1
+"tehama",2021,"Black",361.2
+"trinity",2021,"Black",0
+"tulare",2021,"Black",178.2
+"tuolumne",2021,"Black",0
+"ventura",2021,"Black",40.6
+"yolo",2021,"Black",86.2
+"yuba",2021,"Black",80.4
+"alameda",2021,"Hispanic",22.1
+"alpine",2021,"Hispanic",0
+"amador",2021,"Hispanic",30.8
+"butte",2021,"Hispanic",27.1
+"calaveras",2021,"Hispanic",33.7
+"colusa",2021,"Hispanic",26.9
+"contra costa",2021,"Hispanic",28.2
+"del norte",2021,"Hispanic",28.5
+"el dorado",2021,"Hispanic",27.6
+"fresno",2021,"Hispanic",35.7
+"glenn",2021,"Hispanic",26.7
+"humboldt",2021,"Hispanic",31.4
+"imperial",2021,"Hispanic",20.9
+"inyo",2021,"Hispanic",39
+"kern",2021,"Hispanic",23.6
+"kings",2021,"Hispanic",36.7
+"lake",2021,"Hispanic",34.8
+"lassen",2021,"Hispanic",NA
+"los angeles",2021,"Hispanic",24.4
+"madera",2021,"Hispanic",35.3
+"marin",2021,"Hispanic",20.3
+"mariposa",2021,"Hispanic",NA
+"mendocino",2021,"Hispanic",23.5
+"merced",2021,"Hispanic",37.4
+"modoc",2021,"Hispanic",NA
+"mono",2021,"Hispanic",39.3
+"monterey",2021,"Hispanic",24.2
+"napa",2021,"Hispanic",15.7
+"nevada",2021,"Hispanic",26
+"orange",2021,"Hispanic",18.5
+"placer",2021,"Hispanic",21.6
+"plumas",2021,"Hispanic",NA
+"riverside",2021,"Hispanic",23.3
+"sacramento",2021,"Hispanic",29.4
+"san benito",2021,"Hispanic",31.5
+"san bernardino",2021,"Hispanic",26.2
+"san diego",2021,"Hispanic",19.4
+"san francisco",2021,"Hispanic",24.8
+"san joaquin",2021,"Hispanic",30.2
+"san luis obispo",2021,"Hispanic",21.7
+"san mateo",2021,"Hispanic",19.5
+"santa barbara",2021,"Hispanic",15.1
+"santa clara",2021,"Hispanic",23.4
+"santa cruz",2021,"Hispanic",19.5
+"shasta",2021,"Hispanic",19.8
+"sierra",2021,"Hispanic",NA
+"siskiyou",2021,"Hispanic",NA
+"solano",2021,"Hispanic",35.4
+"sonoma",2021,"Hispanic",17.4
+"stanislaus",2021,"Hispanic",32.5
+"sutter",2021,"Hispanic",19.4
+"tehama",2021,"Hispanic",29.3
+"trinity",2021,"Hispanic",NA
+"tulare",2021,"Hispanic",26.8
+"tuolumne",2021,"Hispanic",36.7
+"ventura",2021,"Hispanic",18.9
+"yolo",2021,"Hispanic",27.2
+"yuba",2021,"Hispanic",35.6
+"alameda",2021,"Asian/PI",11.4
+"alpine",2021,"Asian/PI",0
+"amador",2021,"Asian/PI",NA
+"butte",2021,"Asian/PI",NA
+"calaveras",2021,"Asian/PI",NA
+"colusa",2021,"Asian/PI",NA
+"contra costa",2021,"Asian/PI",14.5
+"del norte",2021,"Asian/PI",NA
+"el dorado",2021,"Asian/PI",16.4
+"fresno",2021,"Asian/PI",16.6
+"glenn",2021,"Asian/PI",NA
+"humboldt",2021,"Asian/PI",40.7
+"imperial",2021,"Asian/PI",NA
+"inyo",2021,"Asian/PI",NA
+"kern",2021,"Asian/PI",11.5
+"kings",2021,"Asian/PI",NA
+"lake",2021,"Asian/PI",NA
+"lassen",2021,"Asian/PI",NA
+"los angeles",2021,"Asian/PI",7.8
+"madera",2021,"Asian/PI",NA
+"marin",2021,"Asian/PI",6.6
+"mariposa",2021,"Asian/PI",NA
+"mendocino",2021,"Asian/PI",NA
+"merced",2021,"Asian/PI",11.3
+"modoc",2021,"Asian/PI",NA
+"mono",2021,"Asian/PI",NA
+"monterey",2021,"Asian/PI",13.2
+"napa",2021,"Asian/PI",13.8
+"nevada",2021,"Asian/PI",NA
+"orange",2021,"Asian/PI",7.1
+"placer",2021,"Asian/PI",21.3
+"plumas",2021,"Asian/PI",0
+"riverside",2021,"Asian/PI",11.4
+"sacramento",2021,"Asian/PI",17.8
+"san benito",2021,"Asian/PI",NA
+"san bernardino",2021,"Asian/PI",11.2
+"san diego",2021,"Asian/PI",11
+"san francisco",2021,"Asian/PI",8.6
+"san joaquin",2021,"Asian/PI",20.6
+"san luis obispo",2021,"Asian/PI",NA
+"san mateo",2021,"Asian/PI",8.2
+"santa barbara",2021,"Asian/PI",8.1
+"santa clara",2021,"Asian/PI",7.8
+"santa cruz",2021,"Asian/PI",13.8
+"shasta",2021,"Asian/PI",NA
+"sierra",2021,"Asian/PI",0
+"siskiyou",2021,"Asian/PI",0
+"solano",2021,"Asian/PI",24.1
+"sonoma",2021,"Asian/PI",15.2
+"stanislaus",2021,"Asian/PI",16.3
+"sutter",2021,"Asian/PI",17.4
+"tehama",2021,"Asian/PI",0
+"trinity",2021,"Asian/PI",NA
+"tulare",2021,"Asian/PI",11.2
+"tuolumne",2021,"Asian/PI",NA
+"ventura",2021,"Asian/PI",5.1
+"yolo",2021,"Asian/PI",10.6
+"yuba",2021,"Asian/PI",NA
+"alameda",2021,"AI/AN",NA
+"alpine",2021,"AI/AN",0
+"amador",2021,"AI/AN",0
+"butte",2021,"AI/AN",NA
+"calaveras",2021,"AI/AN",NA
+"colusa",2021,"AI/AN",NA
+"contra costa",2021,"AI/AN",NA
+"del norte",2021,"AI/AN",NA
+"el dorado",2021,"AI/AN",NA
+"fresno",2021,"AI/AN",22.4
+"glenn",2021,"AI/AN",NA
+"humboldt",2021,"AI/AN",37.4
+"imperial",2021,"AI/AN",0
+"inyo",2021,"AI/AN",NA
+"kern",2021,"AI/AN",NA
+"kings",2021,"AI/AN",NA
+"lake",2021,"AI/AN",NA
+"lassen",2021,"AI/AN",NA
+"los angeles",2021,"AI/AN",17.7
+"madera",2021,"AI/AN",NA
+"marin",2021,"AI/AN",0
+"mariposa",2021,"AI/AN",NA
+"mendocino",2021,"AI/AN",42.5
+"merced",2021,"AI/AN",0
+"modoc",2021,"AI/AN",NA
+"mono",2021,"AI/AN",0
+"monterey",2021,"AI/AN",NA
+"napa",2021,"AI/AN",0
+"nevada",2021,"AI/AN",0
+"orange",2021,"AI/AN",NA
+"placer",2021,"AI/AN",NA
+"plumas",2021,"AI/AN",0
+"riverside",2021,"AI/AN",21.8
+"sacramento",2021,"AI/AN",21.9
+"san benito",2021,"AI/AN",0
+"san bernardino",2021,"AI/AN",NA
+"san diego",2021,"AI/AN",13.6
+"san francisco",2021,"AI/AN",NA
+"san joaquin",2021,"AI/AN",NA
+"san luis obispo",2021,"AI/AN",NA
+"san mateo",2021,"AI/AN",NA
+"santa barbara",2021,"AI/AN",NA
+"santa clara",2021,"AI/AN",NA
+"santa cruz",2021,"AI/AN",0
+"shasta",2021,"AI/AN",NA
+"sierra",2021,"AI/AN",0
+"siskiyou",2021,"AI/AN",NA
+"solano",2021,"AI/AN",NA
+"sonoma",2021,"AI/AN",NA
+"stanislaus",2021,"AI/AN",NA
+"sutter",2021,"AI/AN",NA
+"tehama",2021,"AI/AN",NA
+"trinity",2021,"AI/AN",NA
+"tulare",2021,"AI/AN",NA
+"tuolumne",2021,"AI/AN",0
+"ventura",2021,"AI/AN",NA
+"yolo",2021,"AI/AN",NA
+"yuba",2021,"AI/AN",0
+"alameda",2022,"White",13.4
+"alpine",2022,"White",NA
+"amador",2022,"White",38.8
+"butte",2022,"White",19.7
+"calaveras",2022,"White",35.2
+"colusa",2022,"White",30.5
+"contra costa",2022,"White",18.6
+"del norte",2022,"White",53.6
+"el dorado",2022,"White",22.2
+"fresno",2022,"White",31.1
+"glenn",2022,"White",31.9
+"humboldt",2022,"White",30.3
+"imperial",2022,"White",17.3
+"inyo",2022,"White",43
+"kern",2022,"White",19.6
+"kings",2022,"White",28
+"lake",2022,"White",51.6
+"lassen",2022,"White",32.2
+"los angeles",2022,"White",17.8
+"madera",2022,"White",28.7
+"marin",2022,"White",12.2
+"mariposa",2022,"White",10.1
+"mendocino",2022,"White",56.8
+"merced",2022,"White",41.3
+"modoc",2022,"White",49.5
+"mono",2022,"White",16.2
+"monterey",2022,"White",20.6
+"napa",2022,"White",19.7
+"nevada",2022,"White",20.3
+"orange",2022,"White",16.7
+"placer",2022,"White",20.7
+"plumas",2022,"White",28.2
+"riverside",2022,"White",27.7
+"sacramento",2022,"White",22.3
+"san benito",2022,"White",22.9
+"san bernardino",2022,"White",25.5
+"san diego",2022,"White",17.2
+"san francisco",2022,"White",9.9
+"san joaquin",2022,"White",29
+"san luis obispo",2022,"White",18.1
+"san mateo",2022,"White",11.4
+"santa barbara",2022,"White",16.8
+"santa clara",2022,"White",13.9
+"santa cruz",2022,"White",13.9
+"shasta",2022,"White",23.8
+"sierra",2022,"White",NA
+"siskiyou",2022,"White",27.6
+"solano",2022,"White",34.7
+"sonoma",2022,"White",21.9
+"stanislaus",2022,"White",30.4
+"sutter",2022,"White",23.4
+"tehama",2022,"White",32.3
+"trinity",2022,"White",26.1
+"tulare",2022,"White",24.1
+"tuolumne",2022,"White",26.2
+"ventura",2022,"White",18.7
+"yolo",2022,"White",17.1
+"yuba",2022,"White",37.2
+"alameda",2022,"Black",107.5
+"alpine",2022,"Black",0
+"amador",2022,"Black",NA
+"butte",2022,"Black",121.9
+"calaveras",2022,"Black",NA
+"colusa",2022,"Black",NA
+"contra costa",2022,"Black",123.5
+"del norte",2022,"Black",NA
+"el dorado",2022,"Black",NA
+"fresno",2022,"Black",136.3
+"glenn",2022,"Black",0
+"humboldt",2022,"Black",227.4
+"imperial",2022,"Black",64.6
+"inyo",2022,"Black",NA
+"kern",2022,"Black",97.1
+"kings",2022,"Black",63.9
+"lake",2022,"Black",227
+"lassen",2022,"Black",NA
+"los angeles",2022,"Black",107.7
+"madera",2022,"Black",86.5
+"marin",2022,"Black",65.3
+"mariposa",2022,"Black",0
+"mendocino",2022,"Black",293.7
+"merced",2022,"Black",148.2
+"modoc",2022,"Black",NA
+"mono",2022,"Black",NA
+"monterey",2022,"Black",46.8
+"napa",2022,"Black",105.8
+"nevada",2022,"Black",NA
+"orange",2022,"Black",86.7
+"placer",2022,"Black",113.7
+"plumas",2022,"Black",NA
+"riverside",2022,"Black",104.2
+"sacramento",2022,"Black",128
+"san benito",2022,"Black",NA
+"san bernardino",2022,"Black",93.6
+"san diego",2022,"Black",68.8
+"san francisco",2022,"Black",111.4
+"san joaquin",2022,"Black",141.4
+"san luis obispo",2022,"Black",53.6
+"san mateo",2022,"Black",37.1
+"santa barbara",2022,"Black",50.1
+"santa clara",2022,"Black",75.6
+"santa cruz",2022,"Black",NA
+"shasta",2022,"Black",NA
+"sierra",2022,"Black",NA
+"siskiyou",2022,"Black",NA
+"solano",2022,"Black",125.9
+"sonoma",2022,"Black",96.5
+"stanislaus",2022,"Black",138.5
+"sutter",2022,"Black",102.9
+"tehama",2022,"Black",317.4
+"trinity",2022,"Black",0
+"tulare",2022,"Black",141.9
+"tuolumne",2022,"Black",NA
+"ventura",2022,"Black",69.3
+"yolo",2022,"Black",92
+"yuba",2022,"Black",104.8
+"alameda",2022,"Hispanic",31.2
+"alpine",2022,"Hispanic",0
+"amador",2022,"Hispanic",42.8
+"butte",2022,"Hispanic",28.8
+"calaveras",2022,"Hispanic",44.4
+"colusa",2022,"Hispanic",43.5
+"contra costa",2022,"Hispanic",45
+"del norte",2022,"Hispanic",NA
+"el dorado",2022,"Hispanic",30.1
+"fresno",2022,"Hispanic",48.4
+"glenn",2022,"Hispanic",28.8
+"humboldt",2022,"Hispanic",41.8
+"imperial",2022,"Hispanic",29
+"inyo",2022,"Hispanic",NA
+"kern",2022,"Hispanic",27.8
+"kings",2022,"Hispanic",40.3
+"lake",2022,"Hispanic",63.5
+"lassen",2022,"Hispanic",NA
+"los angeles",2022,"Hispanic",36.1
+"madera",2022,"Hispanic",49.7
+"marin",2022,"Hispanic",25.2
+"mariposa",2022,"Hispanic",89.5
+"mendocino",2022,"Hispanic",45.1
+"merced",2022,"Hispanic",48.7
+"modoc",2022,"Hispanic",NA
+"mono",2022,"Hispanic",62
+"monterey",2022,"Hispanic",35
+"napa",2022,"Hispanic",27.4
+"nevada",2022,"Hispanic",15.9
+"orange",2022,"Hispanic",28.3
+"placer",2022,"Hispanic",26.8
+"plumas",2022,"Hispanic",NA
+"riverside",2022,"Hispanic",32.4
+"sacramento",2022,"Hispanic",38.1
+"san benito",2022,"Hispanic",45.7
+"san bernardino",2022,"Hispanic",35.6
+"san diego",2022,"Hispanic",29.5
+"san francisco",2022,"Hispanic",38.1
+"san joaquin",2022,"Hispanic",44.9
+"san luis obispo",2022,"Hispanic",30.8
+"san mateo",2022,"Hispanic",30
+"santa barbara",2022,"Hispanic",22.1
+"santa clara",2022,"Hispanic",33.2
+"santa cruz",2022,"Hispanic",26.7
+"shasta",2022,"Hispanic",25.9
+"sierra",2022,"Hispanic",NA
+"siskiyou",2022,"Hispanic",NA
+"solano",2022,"Hispanic",45.8
+"sonoma",2022,"Hispanic",29.2
+"stanislaus",2022,"Hispanic",40.2
+"sutter",2022,"Hispanic",21.8
+"tehama",2022,"Hispanic",33.5
+"trinity",2022,"Hispanic",NA
+"tulare",2022,"Hispanic",32.3
+"tuolumne",2022,"Hispanic",39.3
+"ventura",2022,"Hispanic",28.5
+"yolo",2022,"Hispanic",36.5
+"yuba",2022,"Hispanic",42.8
+"alameda",2022,"Asian/PI",19.9
+"alpine",2022,"Asian/PI",0
+"amador",2022,"Asian/PI",NA
+"butte",2022,"Asian/PI",NA
+"calaveras",2022,"Asian/PI",NA
+"colusa",2022,"Asian/PI",NA
+"contra costa",2022,"Asian/PI",25.3
+"del norte",2022,"Asian/PI",NA
+"el dorado",2022,"Asian/PI",NA
+"fresno",2022,"Asian/PI",23.5
+"glenn",2022,"Asian/PI",NA
+"humboldt",2022,"Asian/PI",NA
+"imperial",2022,"Asian/PI",NA
+"inyo",2022,"Asian/PI",NA
+"kern",2022,"Asian/PI",16.8
+"kings",2022,"Asian/PI",NA
+"lake",2022,"Asian/PI",NA
+"lassen",2022,"Asian/PI",NA
+"los angeles",2022,"Asian/PI",11
+"madera",2022,"Asian/PI",NA
+"marin",2022,"Asian/PI",9
+"mariposa",2022,"Asian/PI",0
+"mendocino",2022,"Asian/PI",NA
+"merced",2022,"Asian/PI",18.8
+"modoc",2022,"Asian/PI",NA
+"mono",2022,"Asian/PI",0
+"monterey",2022,"Asian/PI",23.3
+"napa",2022,"Asian/PI",23.2
+"nevada",2022,"Asian/PI",NA
+"orange",2022,"Asian/PI",13
+"placer",2022,"Asian/PI",21.6
+"plumas",2022,"Asian/PI",0
+"riverside",2022,"Asian/PI",16.1
+"sacramento",2022,"Asian/PI",26.5
+"san benito",2022,"Asian/PI",NA
+"san bernardino",2022,"Asian/PI",13.1
+"san diego",2022,"Asian/PI",18.8
+"san francisco",2022,"Asian/PI",16
+"san joaquin",2022,"Asian/PI",31
+"san luis obispo",2022,"Asian/PI",NA
+"san mateo",2022,"Asian/PI",16.3
+"santa barbara",2022,"Asian/PI",7
+"santa clara",2022,"Asian/PI",12.9
+"santa cruz",2022,"Asian/PI",13.7
+"shasta",2022,"Asian/PI",22.2
+"sierra",2022,"Asian/PI",0
+"siskiyou",2022,"Asian/PI",NA
+"solano",2022,"Asian/PI",41.9
+"sonoma",2022,"Asian/PI",20
+"stanislaus",2022,"Asian/PI",22.5
+"sutter",2022,"Asian/PI",27.3
+"tehama",2022,"Asian/PI",NA
+"trinity",2022,"Asian/PI",NA
+"tulare",2022,"Asian/PI",16.9
+"tuolumne",2022,"Asian/PI",NA
+"ventura",2022,"Asian/PI",12.4
+"yolo",2022,"Asian/PI",13.4
+"yuba",2022,"Asian/PI",NA
+"alameda",2022,"AI/AN",23.9
+"alpine",2022,"AI/AN",0
+"amador",2022,"AI/AN",NA
+"butte",2022,"AI/AN",NA
+"calaveras",2022,"AI/AN",0
+"colusa",2022,"AI/AN",NA
+"contra costa",2022,"AI/AN",NA
+"del norte",2022,"AI/AN",NA
+"el dorado",2022,"AI/AN",NA
+"fresno",2022,"AI/AN",52
+"glenn",2022,"AI/AN",NA
+"humboldt",2022,"AI/AN",41.3
+"imperial",2022,"AI/AN",0
+"inyo",2022,"AI/AN",NA
+"kern",2022,"AI/AN",NA
+"kings",2022,"AI/AN",NA
+"lake",2022,"AI/AN",NA
+"lassen",2022,"AI/AN",NA
+"los angeles",2022,"AI/AN",22.3
+"madera",2022,"AI/AN",NA
+"marin",2022,"AI/AN",NA
+"mariposa",2022,"AI/AN",NA
+"mendocino",2022,"AI/AN",32.9
+"merced",2022,"AI/AN",0
+"modoc",2022,"AI/AN",NA
+"mono",2022,"AI/AN",0
+"monterey",2022,"AI/AN",NA
+"napa",2022,"AI/AN",0
+"nevada",2022,"AI/AN",NA
+"orange",2022,"AI/AN",NA
+"placer",2022,"AI/AN",NA
+"plumas",2022,"AI/AN",NA
+"riverside",2022,"AI/AN",19
+"sacramento",2022,"AI/AN",28
+"san benito",2022,"AI/AN",0
+"san bernardino",2022,"AI/AN",23.3
+"san diego",2022,"AI/AN",12.8
+"san francisco",2022,"AI/AN",NA
+"san joaquin",2022,"AI/AN",NA
+"san luis obispo",2022,"AI/AN",NA
+"san mateo",2022,"AI/AN",NA
+"santa barbara",2022,"AI/AN",NA
+"santa clara",2022,"AI/AN",NA
+"santa cruz",2022,"AI/AN",0
+"shasta",2022,"AI/AN",NA
+"sierra",2022,"AI/AN",0
+"siskiyou",2022,"AI/AN",NA
+"solano",2022,"AI/AN",NA
+"sonoma",2022,"AI/AN",NA
+"stanislaus",2022,"AI/AN",NA
+"sutter",2022,"AI/AN",NA
+"tehama",2022,"AI/AN",NA
+"trinity",2022,"AI/AN",NA
+"tulare",2022,"AI/AN",NA
+"tuolumne",2022,"AI/AN",NA
+"ventura",2022,"AI/AN",NA
+"yolo",2022,"AI/AN",NA
+"yuba",2022,"AI/AN",NA
