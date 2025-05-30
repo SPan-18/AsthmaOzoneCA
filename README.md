@@ -1,4 +1,4 @@
-# Bayesian predictive stacking for spatially-temporally misaligned data
+# Bayesian predictive stacking for spatially-temporally misaligned outcome and exposure data
 
 >[!IMPORTANT]
 >Install the R package **spStackCOS** from the GitHub repository [SPan-18/spStackCOS-dev](https://github.com/SPan-18/spStackCOS-dev).
